@@ -70,9 +70,86 @@
 		"imagen_grande": "https://i.imgur.com/TRj8q6t.png"
 	},
 	{
+		"titulo": "Assassin's Creed Brotherhood",
+		"id_steam": "48190",
+		"ids_ubi": ["26"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed Chronicles China",
+		"id_steam": "354380",
+		"ids_ubi": ["1651"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/D72KPXF.jpg"
+	},
+	{
+		"titulo": "Assassin's Creed Chronicles India",
+		"id_steam": "359610",
+		"ids_ubi": ["1847"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/7fmLaGI.png"
+	},
+	{
+		"titulo": "Assassin's Creed Chronicles Russia",
+		"id_steam": "359600",
+		"ids_ubi": ["1848"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/snn32yB.jpg"
+	},
+	{
+		"titulo": "Assassin's Creed Freedom Cry",
+		"id_steam": "277590",
+		"ids_ubi": ["664"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/cXsIDP4.png"
+	},
+	{
+		"titulo": "Assassin's Creed II",
+		"id_steam": "33230",
+		"ids_ubi": ["4"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed III",
+		"id_steam": "208480",
+		"ids_ubi": ["54","103","104","105"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed III Remastered",
+		"id_steam": "911400",
+		"ids_ubi": ["5183","5184"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/T8hOUhj.jpg"
+	},
+	{
 		"titulo": "Assassin's Creed IV Black Flag",
 		"id_steam": "242050",
 		"ids_ubi": ["273","441"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed Liberation HD",
+		"id_steam": "260210",
+		"ids_ubi": ["625","632"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/Z3g2WDq.png"
+	},
+	{
+		"titulo": "Assassin's Creed Odyssey",
+		"id_steam": "812140",
+		"ids_ubi": ["5059"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed Origins",
+		"id_steam": "582160",
+		"ids_ubi": ["3539"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
