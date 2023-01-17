@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Base de Datos Plataformas (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Base de Datos Plataformas (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
