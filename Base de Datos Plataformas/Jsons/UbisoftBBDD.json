@@ -1,0 +1,93 @@
+﻿[
+	{
+		"titulo": "Anno 1404",
+		"id_steam": "33250",
+		"ids_ubi": ["89"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Anno 1404 - History Edition",
+		"id_steam": "1281630",
+		"ids_ubi": ["16232"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Anno 1503 - History Edition",
+		"id_steam": "",
+		"ids_ubi": ["16234"],
+		"imagen_pequeña": "https://i.imgur.com/1NqCd9L.jpg",
+		"imagen_grande": "https://i.imgur.com/dUD46BG.png"
+	},
+	{
+		"titulo": "Anno 1602",
+		"id_steam": "",
+		"ids_ubi": ["2990"],
+		"imagen_pequeña": "https://i.imgur.com/3q4ZU4n.jpg",
+		"imagen_grande": "https://i.imgur.com/IAx1AZr.png"
+	},
+	{
+		"titulo": "Anno 1602 - History Edition",
+		"id_steam": "",
+		"ids_ubi": ["16236"],
+		"imagen_pequeña": "https://i.imgur.com/cYTUD87.jpg",
+		"imagen_grande": "https://i.imgur.com/u63FbBk.jpg"
+	},
+	{
+		"titulo": "Anno 1701 - History Edition",
+		"id_steam": "",
+		"ids_ubi": ["16238"],
+		"imagen_pequeña": "https://i.imgur.com/w7N9WEv.jpg",
+		"imagen_grande": "https://i.imgur.com/NtGAk18.jpg"
+	},
+	{
+		"titulo": "Anno 1800",
+		"id_steam": "916440",
+		"ids_ubi": ["4553"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Anno 2070",
+		"id_steam": "48240",
+		"ids_ubi": ["22"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Anno 2205",
+		"id_steam": "375910",
+		"ids_ubi": ["1253"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed",
+		"id_steam": "15100",
+		"ids_ubi": ["82"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/TRj8q6t.png"
+	},
+	{
+		"titulo": "Assassin's Creed IV Black Flag",
+		"id_steam": "242050",
+		"ids_ubi": ["273","441"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Far Cry New Dawn",
+		"id_steam": "939960",
+		"ids_ubi": ["5210"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "From Dust",
+		"id_steam": "33460",
+		"ids_ubi": ["30"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/t4tz8Ij.png"
+	}
+]
