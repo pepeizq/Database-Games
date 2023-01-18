@@ -1,9 +1,135 @@
 ﻿[
 	{
+		"titulo": "Blizzard Arcade Collection",
+		"id_steam": "",
+		"id_battlenet": "RTRO",
+		"imagen_pequeña": "https://i.imgur.com/zWxYnY4.png",
+		"imagen_grande": "https://i.imgur.com/Oj8ggie.png"
+	},
+	{
+		"titulo": "Call of Duty: Black Ops Cold War",
+		"id_steam": "",
+		"id_battlenet": "ZEUS",
+		"imagen_pequeña": "https://i.imgur.com/Enq0ye3.png",
+		"imagen_grande": "https://i.imgur.com/VFIHWKn.png"
+	},
+	{
+		"titulo": "Call of Duty: Black Ops 4",
+		"id_steam": "",
+		"id_battlenet": "VIPR",
+		"imagen_pequeña": "https://i.imgur.com/pzJevvf.png",
+		"imagen_grande": "https://i.imgur.com/kOk2Gk2.png"
+	},
+	{
+		"titulo": "Call of Duty: Modern Warfare",
+		"id_steam": "",
+		"id_battlenet": "ODIN",
+		"imagen_pequeña": "https://i.imgur.com/ZDkcs33.png",
+		"imagen_grande": "https://i.imgur.com/fIhfkCs.png"
+	},
+	{
+		"titulo": "Call of Duty: Modern Warfare II",
+		"id_steam": "1938090",
+		"id_battlenet": "AUKS",
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Call of Duty: Modern Warfare II Campaign Remastered",
+		"id_steam": "",
+		"id_battlenet": "LAZR",
+		"imagen_pequeña": "https://i.imgur.com/QZYPuMd.png",
+		"imagen_grande": "https://i.imgur.com/Tt3HFiI.png"
+	},
+	{
+		"titulo": "Call of Duty: Vanguard",
+		"id_steam": "",
+		"id_battlenet": "FORE",
+		"imagen_pequeña": "https://i.imgur.com/GX6Yn9o.png",
+		"imagen_grande": "https://i.imgur.com/8Ua8Hp1.png"
+	},
+	{
+		"titulo": "Crash Bandicoot 4: It's About Time",
+		"id_steam": "1378990",
+		"id_battlenet": "WLBY",
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Diablo II: Resurrected",
+		"id_steam": "",
+		"id_battlenet": "OSI",
+		"imagen_pequeña": "https://i.imgur.com/RTZrK7b.png",
+		"imagen_grande": "https://i.imgur.com/eQH8S4F.png"
+	},
+	{
+		"titulo": "Diablo III",
+		"id_steam": "",
+		"id_battlenet": "D3",
+		"imagen_pequeña": "https://i.imgur.com/WH5w2Vz.png",
+		"imagen_grande": "https://i.imgur.com/2b4fhp3.png"
+	},
+	{
+		"titulo": "Diablo Immortal",
+		"id_steam": "",
+		"id_battlenet": "ANBS",
+		"imagen_pequeña": "https://i.imgur.com/QftwzKz.png",
+		"imagen_grande": "https://i.imgur.com/3U4Lpqw.png"
+	},
+	{
+		"titulo": "Hearthstone",
+		"id_steam": "",
+		"id_battlenet": "WTCG",
+		"imagen_pequeña": "https://i.imgur.com/KZbxNV1.png",
+		"imagen_grande": "https://i.imgur.com/qLvIDvf.png"
+	},
+	{
+		"titulo": "Heroes of the Storm",
+		"id_steam": "",
+		"id_battlenet": "Hero",
+		"imagen_pequeña": "https://i.imgur.com/j5xeKk0.png",
+		"imagen_grande": "https://i.imgur.com/RohHnBs.png"
+	},
+	{
+		"titulo": "Overwatch 2",
+		"id_steam": "",
+		"id_battlenet": "Pro",
+		"imagen_pequeña": "https://i.imgur.com/dwwB6zo.png",
+		"imagen_grande": "https://i.imgur.com/guK7o2m.jpg"
+	},
+	{
 		"titulo": "StarCraft",
 		"id_steam": "",
 		"id_battlenet": "S1",
 		"imagen_pequeña": "https://i.imgur.com/alEHu3V.png",
 		"imagen_grande": "https://i.imgur.com/dW5QarF.png"
+	},
+	{
+		"titulo": "Starcraft II",
+		"id_steam": "",
+		"id_battlenet": "S2",
+		"imagen_pequeña": "https://i.imgur.com/6wI28GV.png",
+		"imagen_grande": "https://i.imgur.com/gWBqlQr.png"
+	},
+	{
+		"titulo": "Warcraft III: Reforged",
+		"id_steam": "",
+		"id_battlenet": "W3",
+		"imagen_pequeña": "https://i.imgur.com/u4WOwBf.png",
+		"imagen_grande": "https://i.imgur.com/SaWXv2O.png"
+	},
+	{
+		"titulo": "World of Warcraft",
+		"id_steam": "",
+		"id_battlenet": "WoW",
+		"imagen_pequeña": "https://i.imgur.com/qjKcjYi.png",
+		"imagen_grande": "https://i.imgur.com/iTTTnO9.png"
+	},
+	{
+		"titulo": "World of Warcraft Classic",
+		"id_steam": "",
+		"id_battlenet": "WoWC",
+		"imagen_pequeña": "https://i.imgur.com/t2p4CDi.png",
+		"imagen_grande": "https://i.imgur.com/KgkwFr1.png"
 	}
 ]
