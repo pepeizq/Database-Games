@@ -2,14 +2,14 @@
 	{
 		"titulo": "20XX",
 		"id_steam": "322110",
-		"ids_epic": ["quail"],
+		"ids_epic": ["Quail"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Alan Wake",
 		"id_steam": "108710",
-		"ids_epic": ["heron"],
+		"ids_epic": ["Heron"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	}
