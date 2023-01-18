@@ -1,0 +1,16 @@
+﻿[
+	{
+		"titulo": "20XX",
+		"id_steam": "322110",
+		"ids_epic": ["quail"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Alan Wake",
+		"id_steam": "108710",
+		"ids_epic": ["heron"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	}
+]
