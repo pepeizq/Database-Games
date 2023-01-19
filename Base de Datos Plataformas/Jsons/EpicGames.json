@@ -1,5 +1,12 @@
 ﻿[
 	{
+		"titulo": ">observer_",
+		"id_steam": "514900",
+		"ids_epic": ["Tumeric"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "20XX",
 		"id_steam": "322110",
 		"ids_epic": ["Quail"],
@@ -7,9 +14,667 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "2064: Read Only Memories",
+		"id_steam": "330820",
+		"ids_epic": ["f4e0c1dff48749fa9145c1585699e276"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "3 Out of 10 Episode 1 Welcome to Shovelworks",
+		"id_steam": "",
+		"ids_epic": ["Flounder"],
+		"imagen_pequeña": "https://i.imgur.com/y7O9CJM.png",
+		"imagen_grande": "https://i.imgur.com/Gyw5Ymk.png"
+	},
+	{
+		"titulo": "3 Out of 10 Episode 2 Foundation 101",
+		"id_steam": "",
+		"ids_epic": ["1317e4e3b3ed40c289dde85b194347d3"],
+		"imagen_pequeña": "https://i.imgur.com/MGbigZ3.png",
+		"imagen_grande": "https://i.imgur.com/2skSPpl.png"
+	},
+	{
+		"titulo": "3 out of 10 Episode 3 Pivot Like A Champion",
+		"id_steam": "",
+		"ids_epic": ["d86f9cb568014746a15f66025dcc5733"],
+		"imagen_pequeña": "https://i.imgur.com/NeTDT9v.png",
+		"imagen_grande": "https://i.imgur.com/W5HlL2S.png"
+	},
+	{
+		"titulo": "3 out of 10 Episode 4 Thank You For Being An Asset",
+		"id_steam": "",
+		"ids_epic": ["b2f57e24edcb4537bd76dff8b056a03e"],
+		"imagen_pequeña": "https://i.imgur.com/u3kx8nj.png",
+		"imagen_grande": "https://i.imgur.com/so5M1Iv.png"
+	},
+	{
+		"titulo": "3 out of 10 Episode 5 The Rig Is Up!",
+		"id_steam": "",
+		"ids_epic": ["69c5351eacc540fd8850e12e90726e59"],
+		"imagen_pequeña": "https://i.imgur.com/SBabfrR.png",
+		"imagen_grande": "https://i.imgur.com/oWLqQS6.png"
+	},
+	{
+		"titulo": "3 out of 10: Season Two",
+		"id_steam": "",
+		"ids_epic": ["9a1aae61129247fb971ce96ab6a959da"],
+		"imagen_pequeña": "https://i.imgur.com/fHh6Kom.png",
+		"imagen_grande": "https://i.imgur.com/GwgKe4l.png"
+	},
+	{
+		"titulo": "7 Billion Humans",
+		"id_steam": "792100",
+		"ids_epic": ["Holly"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "A Game of Thrones: The Board Game",
+		"id_steam": "1075190",
+		"ids_epic": ["06b8b80d89c24a28a7e91127fcbd9542"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "A Good Snowman is Hard to Build",
+		"id_steam": "316610",
+		"ids_epic": ["8760ffb4aaed4482a97553a7faca8277"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "A Knight's Quest",
+		"id_steam": "",
+		"ids_epic": ["Cockatoo"],
+		"imagen_pequeña": "https://i.imgur.com/WLMjH5x.png",
+		"imagen_grande": "https://i.imgur.com/KiHqj4O.png"
+	},
+	{
+		"titulo": "A Monster's Expedition",
+		"id_steam": "1052990",
+		"ids_epic": ["9050026cc16c44b8b4e69f160c4bb5d5"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "A Plague Tale: Innocence",
+		"id_steam": "752590",
+		"ids_epic": ["e0fa47ae79514345823bff209ae29451"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "A Short Hike",
+		"id_steam": "1055540",
+		"ids_epic": ["d6407c9e6fd54cb492b8c6635480d792"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "A Total War Saga: TROY",
+		"id_steam": "1099410",
+		"ids_epic": ["11e598b192324994abce05bad4f81b50"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Absolute Drift",
+		"id_steam": "320140",
+		"ids_epic": ["19927295d6e3467887d4e830d8c85963"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "ABZU",
+		"id_steam": "384190",
+		"ids_epic": ["Curry"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "AER Memories of Old",
+		"id_steam": "331870",
+		"ids_epic": ["26b63c46de9e4dcc856b3c6b106b6777"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Afterparty",
+		"id_steam": "762220",
+		"ids_epic": ["Adenium"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Ageless",
+		"id_steam": "1210150",
+		"ids_epic": ["de18a33d6e1f4001b9a3f4a50ef7d760"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Aground",
+		"id_steam": "876650",
+		"ids_epic": ["bde0d8274dc64fe98e2e0867401b1de4"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Airborne Kingdom",
+		"id_steam": "876650",
+		"ids_epic": ["982290"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Alan Wake",
 		"id_steam": "108710",
 		"ids_epic": ["Heron"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Alan Wake: American Nightmare",
+		"id_steam": "202750",
+		"ids_epic": ["Condor"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Alba: A Wildlife Adventure",
+		"id_steam": "1337010",
+		"ids_epic": ["8a0173bbe3ac48ac903f5bc7277e7b4e"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Alien: Isolation",
+		"id_steam": "214490",
+		"ids_epic": ["8935bb3e1420443a9789fe01758039a5"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Alluris",
+		"id_steam": "1078510",
+		"ids_epic": ["712a1086c52b413da55f9b38588575d9"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Amnesia: A Machine for Pigs",
+		"id_steam": "239200",
+		"ids_epic": ["d7db33dfe7634d6b8a188c708f2caa3c"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Amnesia: Rebirth",
+		"id_steam": "999220",
+		"ids_epic": ["f59de18db4dc445f88ffeff24d081234"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Amnesia: The Dark Descent",
+		"id_steam": "57300",
+		"ids_epic": ["ece4c58603d04bcb97454be9a7492fa6"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Among the Sleep - Enhanced Edition",
+		"id_steam": "250620",
+		"ids_epic": ["aa78f7be2ee64193b6b6444c5fc50157"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Among Trees",
+		"id_steam": "897730",
+		"ids_epic": ["Dorado"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Among Us",
+		"id_steam": "945360",
+		"ids_epic": ["963137e4c29d4c79a81323b8fab03a40"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Ancestors: The Humankind Odyssey",
+		"id_steam": "536270",
+		"ids_epic": ["Amaranth"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Ancient Enemy",
+		"id_steam": "993790",
+		"ids_epic": ["a96de508ac71471fa05e7c1c695e3b5d"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Animation Throwdown: The Quest for Cards",
+		"id_steam": "591960",
+		"ids_epic": ["feb451892b70438899408915c1fd96df"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/LfYLRfV.png"
+	},
+	{
+		"titulo": "Anno 1404: History Edition",
+		"id_steam": "1281630",
+		"ids_epic": ["f529f5a152014f65821eb900f1c54921"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Anno 1701: History Edition",
+		"id_steam": "",
+		"ids_epic": ["190415920d4a4e3f99043e57e8fabe60"],
+		"imagen_pequeña": "https://i.imgur.com/w7N9WEv.jpg",
+		"imagen_grande": "https://i.imgur.com/NtGAk18.jpg"
+	},
+	{
+		"titulo": "Anno 1800",
+		"id_steam": "916440",
+		"ids_epic": ["Oregano"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Anno 2070 Complete Edition",
+		"id_steam": "48240",
+		"ids_epic": ["Huchen"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Anno 2205",
+		"id_steam": "375910",
+		"ids_epic": ["Gulper"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Anodyne 2: Return to Dust",
+		"id_steam": "877810",
+		"ids_epic": ["Tanzanite"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Antstream Arcade",
+		"id_steam": "1564030",
+		"ids_epic": ["4f50a062a8c34a259e507260a0311163"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Ape Out",
+		"id_steam": "447150",
+		"ids_epic": ["Coley"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Aquanox Deep Descent",
+		"id_steam": "254370",
+		"ids_epic": ["c653d74ead8c4940bc121bcccbaf20cf"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Arise: A Simple Story",
+		"id_steam": "866140",
+		"ids_epic": ["Rail"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "ARK: Survival Evolved",
+		"id_steam": "346110",
+		"ids_epic": ["aafc587fbf654758802c8e41e4fb3255"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "art of rally",
+		"id_steam": "550320",
+		"ids_epic": ["01805192c8074820b1257fcfd97f2648"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "As Far As The Eye",
+		"id_steam": "1119700",
+		"ids_epic": ["09d93e58c5694dc4a709d76887bcd61c"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Ashen",
+		"id_steam": "649950",
+		"ids_epic": ["Wren"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Ashwalkers",
+		"id_steam": "1273690",
+		"ids_epic": ["464b25d9f4f9431a9faf2c299964c42c"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed: Director's Cut Edition",
+		"id_steam": "15100",
+		"ids_epic": ["0b9d1072cd674b8b91c8e25e9d695ed9"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/TRj8q6t.png"
+	},
+	{
+		"titulo": "Assassin's Creed II Deluxe Edition",
+		"id_steam": "33230",
+		"ids_epic": ["d0ae8ca1b5c8421ca6ab892353d3204d"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed III: Remastered",
+		"id_steam": "911400",
+		"ids_epic": ["Anise"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/T8hOUhj.jpg"
+	},
+	{
+		"titulo": "Assassin's Creed Odyssey",
+		"id_steam": "812140",
+		"ids_epic": ["Clary"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed Origins",
+		"id_steam": "582160",
+		"ids_epic": ["Camellia"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed Rogue",
+		"id_steam": "311560",
+		"ids_epic": ["Wolffish"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed Syndicate",
+		"id_steam": "368500",
+		"ids_epic": ["Albacore"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed Unity",
+		"id_steam": "289650",
+		"ids_epic": ["Amberjack"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Assassin's Creed Valhalla",
+		"id_steam": "2208920",
+		"ids_epic": ["965ccf8b2eba4f9381ef43183c08e205"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Atomicrops",
+		"id_steam": "757320",
+		"ids_epic": ["Swan"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Auto Chess",
+		"id_steam": "1530300",
+		"ids_epic": ["Owl"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Automachef",
+		"id_steam": "984800",
+		"ids_epic": ["069a60f6b0514a5fbe81b38957c1ddfd"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Aven Colony",
+		"id_steam": "484900",
+		"ids_epic": ["dc07b9ead8214591b8df6d2546d2a0e3"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Axiom Verge",
+		"id_steam": "332200",
+		"ids_epic": ["Puffin"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Aztez",
+		"id_steam": "244750",
+		"ids_epic": ["Grunt"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/XNfSorl.png"
+	},
+	{
+		"titulo": "Bad North",
+		"id_steam": "688420",
+		"ids_epic": ["Chives"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Barony",
+		"id_steam": "371970",
+		"ids_epic": ["c98c4cd6d83a4524b4b22f13af95a104"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Batman Arkham Asylum",
+		"id_steam": "35140",
+		"ids_epic": ["Godwit"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Batman Arkham City",
+		"id_steam": "200260",
+		"ids_epic": ["Egret"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Batman Arkham Knight",
+		"id_steam": "208650",
+		"ids_epic": ["Cowbird"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Battle Breakers",
+		"id_steam": "",
+		"ids_epic": ["Wex"],
+		"imagen_pequeña": "https://i.imgur.com/hrYQiCL.png",
+		"imagen_grande": "https://i.imgur.com/F5HRLsS.png"
+	},
+	{
+		"titulo": "Battle Chasers: Nightwar",
+		"id_steam": "451020",
+		"ids_epic": ["c720c09efeba4597a5c24a98bcf62fa7"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Bee Simulator",
+		"id_steam": "914750",
+		"ids_epic": ["Spoonbill"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Before We Leave",
+		"id_steam": "1073910",
+		"ids_epic": ["Salmon"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Before Your Eyes",
+		"id_steam": "1082430",
+		"ids_epic": ["9a24b9e4c42445f7b739762530127d32"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Beyond Blue",
+		"id_steam": "883360",
+		"ids_epic": ["3a0cae9455844390ad00505a704d641e"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Beyond Good & Evil",
+		"id_steam": "15130",
+		"ids_epic": ["52f83a6af963426aaee2d603030ef7c9"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/LQcTpMg.jpg"
+	},
+	{
+		"titulo": "Beyond: Two Souls",
+		"id_steam": "960990",
+		"ids_epic": ["Lavender"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Big Pharma",
+		"id_steam": "344850",
+		"ids_epic": ["f23e1ec714a146648a4b330e777ee3a1"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "BioShock 2 Remastered",
+		"id_steam": "409720",
+		"ids_epic": ["b22ce34b4ce0408c97a888554447479b"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "BioShock Infinite",
+		"id_steam": "8870",
+		"ids_epic": ["f9d6f0530ea140909f8e8a997a7532d7"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "BioShock Remastered",
+		"id_steam": "409710",
+		"ids_epic": ["bc2c95c6ff564a16b26644f1d3ac3c55"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Black Widow: Recharged",
+		"id_steam": "1714180",
+		"ids_epic": ["a21fd90517bf428eb7c995a8c3261722"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Blair Witch",
+		"id_steam": "1092660",
+		"ids_epic": ["247a0f0f5803429eb3be2c06f3ea77ff"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Bloodroots",
+		"id_steam": "820540",
+		"ids_epic": ["Pochard"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Bloons TD 6",
+		"id_steam": "960090",
+		"ids_epic": ["7786b355a13b47a6b3915335117cd0b2"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Borderlands 2",
+		"id_steam": "49520",
+		"ids_epic": ["Dodo"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Borderlands 3",
+		"id_steam": "397540",
+		"ids_epic": ["Catnip"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Borderlands: The Pre-Sequel",
+		"id_steam": "261640",
+		"ids_epic": ["Turkey"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Breathedge",
+		"id_steam": "738520",
+		"ids_epic": ["0a20ccd3f1b3464da750a4dbf8c80d7c"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Bridge Constructor: The Walking Dead",
+		"id_steam": "1336120",
+		"ids_epic": ["998af0ab527c493baefb8049250c9a0e"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Brothers - A Tale of Two Sons",
+		"id_steam": "225080",
+		"ids_epic": ["Tamarind"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Bugsnax",
+		"id_steam": "674140",
+		"ids_epic": ["Bonytail"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Calico",
+		"id_steam": "1112890",
+		"ids_epic": ["aa069bf2d1fb439cb44d659eda568c40"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	}
