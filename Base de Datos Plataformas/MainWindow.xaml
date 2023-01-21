@@ -2,12 +2,33 @@
     x:Class="Base_de_Datos_Plataformas.MainWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:Base_de_Datos_Plataformas"
+    xmlns:controls="using:CommunityToolkit.WinUI.UI.Controls"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
-       
-    </StackPanel>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10">
+            <TextBlock x:Name="tbBattlenetAPI" Margin="10"/>
+            <TextBlock x:Name="tbEpicGamesAPI" Margin="10"/>
+            <TextBlock x:Name="tbUbisoftAPI" Margin="10"/>
+
+            <ComboBox x:Name="cbSeleccionarPlataforma" Margin="0,20">
+                <ComboBoxItem Content="Battle.net"/>
+                <ComboBoxItem Content="Epic Games"/>
+                <ComboBoxItem Content="Ubisoft"/>
+            </ComboBox>
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Visible" Padding="0,0,15,0" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+            <StackPanel Orientation="Vertical">
+                <controls:AdaptiveGridView x:Name="gvJuegos" DesiredWidth="150"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
 </Window>

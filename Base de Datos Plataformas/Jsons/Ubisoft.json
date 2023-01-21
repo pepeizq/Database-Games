@@ -602,13 +602,6 @@
 		"imagen_grande": "https://i.imgur.com/bC0eGnu.png"
 	},
 	{
-		"titulo": "Riders Republic",
-		"id_steam": "",
-		"ids_ubi": ["5487"],
-		"imagen_pequeña": "https://i.imgur.com/bDJXk0i.png",
-		"imagen_grande": "https://i.imgur.com/ubbOYwZ.png"
-	},
-	{
 		"titulo": "Rayman 1 Forever",
 		"id_steam": "",
 		"ids_ubi": ["2968"],
@@ -649,6 +642,13 @@
 		"ids_ubi": ["362"],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/lBBQdUT.png"
+	},
+	{
+		"titulo": "Riders Republic",
+		"id_steam": "",
+		"ids_ubi": ["5487"],
+		"imagen_pequeña": "https://i.imgur.com/bDJXk0i.png",
+		"imagen_grande": "https://i.imgur.com/ubbOYwZ.png"
 	},
 	{
 		"titulo": "Rocksmith",

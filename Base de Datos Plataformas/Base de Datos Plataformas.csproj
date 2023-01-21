@@ -23,8 +23,17 @@
   </ItemGroup>
 
   <ItemGroup>
+     <Content Include="Jsons\Battlenet.json" />
+     <Content Include="Jsons\EpicGames.json" />
+     <Content Include="Jsons\Ubisoft.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.WinUI.Notifications" Version="7.1.2" />
+    <PackageReference Include="CommunityToolkit.WinUI.UI.Controls" Version="7.1.2" />
     <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.2.221109.1" />
     <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.22621.755" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <Manifest Include="$(ApplicationManifest)" />
   </ItemGroup>
 
