@@ -1141,6 +1141,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Dishonored - Definitive Edition",
+		"id_steam": "205100",
+		"ids_epic": ["d2da64bd4c4e422da4b1a88041492a3a"],
+		"imagen_pequeña": "https://i.imgur.com/r3wNY3z.png",
+		"imagen_grande": "https://i.imgur.com/y8Iowjx.png"
+	},
+	{
 		"titulo": "Donut County",
 		"id_steam": "702670",
 		"ids_epic": ["Kestrel"],
@@ -1218,9 +1225,23 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Encased: A Sci-Fi Post-Apocalyptic RPG",
+		"id_steam": "921800",
+		"ids_epic": ["af0facaba8e643c1b9850d0683ff56df"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Enter the Gungeon",
 		"id_steam": "311690",
 		"ids_epic": ["Garlic"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Epistory - Typing Chronicles",
+		"id_steam": "398850",
+		"ids_epic": ["4ec72fd8cbd94aa4acc61624c68fbc4f"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1267,6 +1288,20 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Eximius: Seize the Frontline",
+		"id_steam": "505740",
+		"ids_epic": ["70f92598b33d42e290e411f07397aeee"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "F.I.S.T.: Forged In Shadow Torch",
+		"id_steam": "1330470",
+		"ids_epic": ["bf4808b3395b43fb80afbe6773e1661"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Faeria",
 		"id_steam": "397060",
 		"ids_epic": ["Vulture"],
@@ -1288,9 +1323,30 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Fallout: A Post Nuclear Role Playing Game",
+		"id_steam": "38400",
+		"ids_epic": ["f8ef168f3522419caad27d82878e0329"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Fallout 2: A Post Nuclear Role Playing Game",
+		"id_steam": "38410",
+		"ids_epic": ["74034e8449f2470d9f45115f3a49f9aa"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Fallout 3: Game of the Year Edition",
 		"id_steam": "22370",
 		"ids_epic": ["adeae8bbfc94427db57c7dfecce3f1d4"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Fallout Tactics: Brotherhood of Steel",
+		"id_steam": "38420",
+		"ids_epic": ["908f75e7f1624819a70c27f543741dcd"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1400,6 +1456,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "First Class Trouble",
+		"id_steam": "953880",
+		"ids_epic": ["0c942b2c920149ff986af1ed93c92ddf"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Flower",
 		"id_steam": "966330",
 		"ids_epic": ["Yarrow"],
@@ -1494,6 +1557,13 @@
 		"titulo": "Galactic Civilizations III",
 		"id_steam": "226860",
 		"ids_epic": ["5f1c66366b2c4a6496d535d88c56e6cf"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Gamedec - Definitive Edition",
+		"id_steam": "917720",
+		"ids_epic": ["a01150ee6deb406c92dd2b2445186163"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1960,6 +2030,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Kerbal Space Program",
+		"id_steam": "220200",
+		"ids_epic": ["a1e2ce30defe4a9187ebc14fc9d2bd8b"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "KID A MNESIA EXHIBITION",
 		"id_steam": "",
 		"ids_epic": ["33411619626243f1859d0b7fb5cc5405"],
@@ -2117,6 +2194,13 @@
 		"titulo": "LEGO Batman 3: Beyond Gotham",
 		"id_steam": "313690",
 		"ids_epic": ["Gull"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "LEGO Builder's Journey",
+		"id_steam": "1544360",
+		"ids_epic": ["806f3b7734764e2498962ce7b55c0dda"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -3171,6 +3255,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Severed Steel",
+		"id_steam": "1227690",
+		"ids_epic": ["7179f095efcc4f92a950a6d9dbd9c602"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Shadow Complex",
 		"id_steam": "385560",
 		"ids_epic": ["Vpr"],
@@ -3188,6 +3279,13 @@
 		"titulo": "Shadow Man Remastered",
 		"id_steam": "1413870",
 		"ids_epic": ["785e6a44b50e40ab8c68a3f4dd6cddb0"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+		{
+		"titulo": "Shadow Tactics: Aiko's Choice",
+		"id_steam": "1579380",
+		"ids_epic": ["a334978574a840d594c31521592925f3"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4161,6 +4259,538 @@
 		"titulo": "ToeJam & Earl: Back in the Groove",
 		"id_steam": "516110",
 		"ids_epic": ["37d84dd0b65a40e9b0719141b987a216"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Tom Clancy's Ghost Recon Breakpoint",
+		"id_steam": "",
+		"ids_epic": ["Saffron"],
+		"imagen_pequeña": "https://i.imgur.com/1GzykMr.png",
+		"imagen_grande": "https://i.imgur.com/XTsGHTc.png"
+	},
+	{
+		"titulo": "Tom Clancy's Ghost Recon Future Soldier Ultimate Edition",
+		"id_steam": "212630",
+		"ids_epic": ["e7471b6a7335415db9819ef7e7e77c29"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/Kday41s.png"
+	},
+	{
+		"titulo": "Tom Clancy's Ghost Recon Wildlands",
+		"id_steam": "460930",
+		"ids_epic": ["Hyacinth"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Tom Clancy's Rainbow Six Siege",
+		"id_steam": "359550",
+		"ids_epic": ["Carnation"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Tom Clancy's Splinter Cell",
+		"id_steam": "13560",
+		"ids_epic": ["5c344710714e42939e96f2e7519d2224"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/v57YH38.png"
+	},
+	{
+		"titulo": "Tom Clancy's Splinter Cell Chaos Theory",
+		"id_steam": "13570",
+		"ids_epic": ["4bef8f2938c74f8597f512de38fc0afd"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/qOVUmHj.png"
+	},
+	{
+		"titulo": "Tom Clancy's Splinter Cell Double Agent",
+		"id_steam": "13580",
+		"ids_epic": ["b678e4bde8cd4059919087cde99d966d"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/clHRUoG.jpg"
+	},
+	{
+		"titulo": "Tom Clancy's The Division",
+		"id_steam": "365590",
+		"ids_epic": ["e4eb21a09dc049e982359b1e133ccebf"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Tom Clancy's The Division 2",
+		"id_steam": "2221490",
+		"ids_epic": ["Impala"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Tomb Raider",
+		"id_steam": "203160",
+		"ids_epic": ["d6264d56f5ba434e91d4b0a0b056c83a"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Tony Hawk's Pro Skater 1 + 2",
+		"id_steam": "",
+		"ids_epic": ["Guppy"],
+		"imagen_pequeña": "https://i.imgur.com/zp5yk7x.png",
+		"imagen_grande": "https://i.imgur.com/g1KguHV.png"
+	},
+	{
+		"titulo": "Torchlight",
+		"id_steam": "41500",
+		"ids_epic": ["Terragon"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Torchlight II",
+		"id_steam": "200710",
+		"ids_epic": ["8e425d507bd6473dbb927f0fea8ef4f6"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Tormentor X Punisher",
+		"id_steam": "500670",
+		"ids_epic": ["Goby"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Total War: WARHAMMER",
+		"id_steam": "364360",
+		"ids_epic": ["30d3a88d29e24716ac5a4720042289f7"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Total War: WARHAMMER II",
+		"id_steam": "594570",
+		"ids_epic": ["a019487eae90442baa6e2cc84a61447e"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Totally Accurate Battle Simulator",
+		"id_steam": "508440",
+		"ids_epic": ["Driftfish"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Totally Reliable Delivery Service",
+		"id_steam": "1011670",
+		"ids_epic": ["Hoatzin"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "TowerFall Ascension",
+		"id_steam": "251470",
+		"ids_epic": ["Bichir"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/QnCc21D.jpg"
+	},
+	{
+		"titulo": "Trackmania",
+		"id_steam": "",
+		"ids_epic": ["Pigeon"],
+		"imagen_pequeña": "https://i.imgur.com/fP4KU9C.png",
+		"imagen_grande": "https://i.imgur.com/D82iNua.png"
+	},
+	{
+		"titulo": "Trackmania Turbo",
+		"id_steam": "375900",
+		"ids_epic": ["a18915c48f584670bd236ce3031d63d9"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Train Sim World 2",
+		"id_steam": "1282590",
+		"ids_epic": ["dd75b5c168d546cc869582c0389f0a1d"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Transistor",
+		"id_steam": "237930",
+		"ids_epic": ["Dill"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Trials Evolution: Gold Edition",
+		"id_steam": "220160",
+		"ids_epic": ["bc24707b365449748339d8c6f86ce7b8"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/8E7KAEp.png"
+	},
+	{
+		"titulo": "Trials Fusion",
+		"id_steam": "245490",
+		"ids_epic": ["7a61f09916cf4d81a78cf796b182a002"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/2LxiFcj.png"
+	},
+	{
+		"titulo": "Trials Rising",
+		"id_steam": "641080",
+		"ids_epic": ["Argyle"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Tropico 5",
+		"id_steam": "245620",
+		"ids_epic": ["8b5f1c51be3844bab51e2ee1089839f5"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Tropico 6",
+		"id_steam": "492720",
+		"ids_epic": ["6f76563847a04e61be4f084717d456e0"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Trover Saves the Universe",
+		"id_steam": "1051200",
+		"ids_epic": ["Sweetpea"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Twin Mirror",
+		"id_steam": "1552810",
+		"ids_epic": ["58d0d56cb2f5475cbd89fed5beb44215"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Tyranny - Gold Edition",
+		"id_steam": "362960",
+		"ids_epic": ["36b0e40890f147fbb1e3965f87369156"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "UNO",
+		"id_steam": "470220",
+		"ids_epic": ["Hussar"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Unrailed!",
+		"id_steam": "1016920",
+		"ids_epic": ["76233c0af0a441c7bd541e7d7ab3cde1"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Unreal Tournament",
+		"id_steam": "",
+		"ids_epic": ["Ut"],
+		"imagen_pequeña": "https://i.imgur.com/GtFtTbJ.png",
+		"imagen_grande": "https://i.imgur.com/MvNQHfK.png"
+	},
+	{
+		"titulo": "Untitled Goose Game",
+		"id_steam": "837470",
+		"ids_epic": ["Flour"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Valiant Hearts: The Great War",
+		"id_steam": "260230",
+		"ids_epic": ["f6496e154baa437cb4d9cae38a7e3cc5"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/xQWgNLk.png"
+	},
+	{
+		"titulo": "Valorant",
+		"id_steam": "",
+		"ids_epic": ["602eb4abc8764c87b7f2607a1ef8c18e"],
+		"imagen_pequeña": "https://i.imgur.com/nta9wKy.png",
+		"imagen_grande": "https://i.imgur.com/RY16CYZ.png"
+	},
+	{
+		"titulo": "Vampyr",
+		"id_steam": "427290",
+		"ids_epic": ["Nautilus"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Verdun",
+		"id_steam": "242860",
+		"ids_epic": ["38c0129b680e4843b4807b98bad67027"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Void Bastards",
+		"id_steam": "857980",
+		"ids_epic": ["595e35287b824902a2f7107139603732"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Warface",
+		"id_steam": "291480",
+		"ids_epic": ["8471bbbefe8d410fbee5483d860302fc"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Warframe",
+		"id_steam": "230410",
+		"ids_epic": ["398965b67f314d31b0683b8ea11c93a4"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Wargame: Red Dragon",
+		"id_steam": "251060",
+		"ids_epic": ["2cd446792405468e9e87f67649d864c2"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Warhammer 40,000: Gladius - Relics of War",
+		"id_steam": "489630",
+		"ids_epic": ["da5b18cb1e7a452196c3142f2c1d7dd3"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Warhammer 40,000: Mechanicus",
+		"id_steam": "673880",
+		"ids_epic": ["dd95e8c01b4b456f8ecbf18376a49c94"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Watch Dogs",
+		"id_steam": "243470",
+		"ids_epic": ["Jasper"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/GFX1Sbt.png"
+	},
+	{
+		"titulo": "Watch Dogs 2",
+		"id_steam": "447040",
+		"ids_epic": ["Angelonia"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Watch Dogs Legion",
+		"id_steam": "2239550",
+		"ids_epic": ["Hawk"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Wattam",
+		"id_steam": "702680",
+		"ids_epic": ["Lupine"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Werewolf: The Apocalypse – Earthblood",
+		"id_steam": "679110",
+		"ids_epic": ["Teal"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "What Remains of Edith Finch",
+		"id_steam": "501300",
+		"ids_epic": ["Badger"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "What the Golf?",
+		"id_steam": "785790",
+		"ids_epic": ["Stork"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Wheels of Aurelia",
+		"id_steam": "508740",
+		"ids_epic": ["Escolar"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Where The Water Tastes Like Wine",
+		"id_steam": "447120",
+		"ids_epic": ["e8964b869b6849bea41eefec766cd665"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "while True: learn()",
+		"id_steam": "619150",
+		"ids_epic": ["4f272a49a39742b795d63e1f483a7c7d"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Whispers of a Machine",
+		"id_steam": "631570",
+		"ids_epic": ["f98f2879f12f42bbbe767db90907d1ab"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Wildcat Gun Machine",
+		"id_steam": "1288610",
+		"ids_epic": ["e9c18eae78964527853bfa2053d346e2"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Wilmot's Warehouse",
+		"id_steam": "839870",
+		"ids_epic": ["9b40e3ffb4074f22a856a521be5ce858"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Windbound",
+		"id_steam": "1162130",
+		"ids_epic": ["a95bf4df6627431ca5baff8173c59635"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Wizards: Wand of Epicosity",
+		"id_steam": "772750",
+		"ids_epic": ["a19c886dab804ef0a0e095874c7e0d00"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/n3Sc1SY.jpg"
+	},
+	{
+		"titulo": "Wolfenstein: The New Order",
+		"id_steam": "201810",
+		"ids_epic": ["a64dcf9b711a4a60a3c0b6f052dfc7da"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Wonder Boy: The Dragon's Trap",
+		"id_steam": "543260",
+		"ids_epic": ["4c30fe9841264abfb120b581d061a8fd"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "World of Goo",
+		"id_steam": "22000",
+		"ids_epic": ["Anemone"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "World of Warships",
+		"id_steam": "552990",
+		"ids_epic": ["a79746038c6948558274065d24f3faa3"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "World War Z",
+		"id_steam": "699130",
+		"ids_epic": ["Wombat"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Wrath: Aeon of Ruin",
+		"id_steam": "1000410",
+		"ids_epic": ["708e4a9716e24bdb846b26bb24aa2fb4"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "WRC 8 FIA World Rally Championship",
+		"id_steam": "1004750",
+		"ids_epic": ["Woodpecker"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "WRC 9 FIA World Rally Championship",
+		"id_steam": "1267540",
+		"ids_epic": ["Kagu"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "XCOM 2",
+		"id_steam": "268500",
+		"ids_epic": ["3be3c4d681bc46b3b8b26c5df3ae0a18"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Yaga",
+		"id_steam": "888530",
+		"ids_epic": ["Robin"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Yes, Your Grace",
+		"id_steam": "1115690",
+		"ids_epic": ["874d8bf57d9b4fef9eff995cee94d223"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Yoku's Island Express",
+		"id_steam": "334940",
+		"ids_epic": ["3acb0920074446e8baaa4c249200d892"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Yooka-Laylee",
+		"id_steam": "360830",
+		"ids_epic": ["ce2a78bf70b646e9b9f57c46dac99184"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Yooka-Laylee and the Impossible Lair",
+		"id_steam": "846870",
+		"ids_epic": ["Duckbill"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Zombi",
+		"id_steam": "339230",
+		"ids_epic": ["91b23d48ead64764b90a217a11baf209"],
+		"imagen_pequeña": "",
+		"imagen_grande": "https://i.imgur.com/kfj47uV.png"
+	},
+	{
+		"titulo": "Zombie Army 4: Dead War",
+		"id_steam": "694280",
+		"ids_epic": ["Sparrow"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	}
