@@ -665,6 +665,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Roller Champions",
+		"id_steam": "2211280",
+		"ids_ubi": ["11899"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Scott Pilgrim vs the World: The Game",
 		"id_steam": "2215260",
 		"ids_ubi": ["5705"],
@@ -855,10 +862,10 @@
 	},
 	{
 		"titulo": "Tom Clancy's Ghost Recon Breakpoint",
-		"id_steam": "",
+		"id_steam": "2231380",
 		"ids_ubi": ["11903"],
-		"imagen_pequeña": "https://i.imgur.com/1GzykMr.png",
-		"imagen_grande": "https://i.imgur.com/XTsGHTc.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Tom Clancy's Ghost Recon Future Soldier",
@@ -981,10 +988,10 @@
 	},
 	{
 		"titulo": "Trackmania",
-		"id_steam": "",
+		"id_steam": "2225070",
 		"ids_ubi": ["5595"],
-		"imagen_pequeña": "https://i.imgur.com/fP4KU9C.png",
-		"imagen_grande": "https://i.imgur.com/D82iNua.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Trackmania Turbo",

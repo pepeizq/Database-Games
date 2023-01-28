@@ -6,7 +6,6 @@ using Microsoft.UI.Xaml.Media;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using System.IO;
 using Windows.Storage;
 
 namespace Base_de_Datos_Plataformas

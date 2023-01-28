@@ -133,6 +133,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Adios",
+		"id_steam": "1271400",
+		"ids_epic": ["73c56a1f38a548b2852ce8608c5e436e"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "AER Memories of Old",
 		"id_steam": "331870",
 		"ids_epic": ["26b63c46de9e4dcc856b3c6b106b6777"],
@@ -1757,6 +1764,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Hell is Others",
+		"id_steam": "964440",
+		"ids_epic": ["0e70be0cea0446599acb4c26d2e925f9"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Hello Neighbor",
 		"id_steam": "521890",
 		"ids_epic": ["Ursus"],
@@ -2471,6 +2485,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "MultiVersus",
+		"id_steam": "1818750",
+		"ids_epic": ["711c5e95dc094ca58e5f16bd48e751d6"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Mundaun",
 		"id_steam": "720350",
 		"ids_epic": ["31b0ca9025cf4ed3a799947298cacbb1"],
@@ -2891,6 +2912,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "PUBG: BATTLEGROUNDS",
+		"id_steam": "578080",
+		"ids_epic": ["9361c8c6d2f34b42b5f2f61093eedf48"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Pumpkin Jack",
 		"id_steam": "1186640",
 		"ids_epic": ["9fef3b816031450da8ba85b23820cfbb"],
@@ -3090,6 +3118,13 @@
 		"titulo": "Rogue State Revolution",
 		"id_steam": "1145340",
 		"ids_epic": ["0f00530809984268a13089d76f7ecb20"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Roller Champions",
+		"id_steam": "2211280",
+		"ids_epic": ["540f935fa0ad4bd498177ee5ad3b54e4"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4264,10 +4299,10 @@
 	},
 	{
 		"titulo": "Tom Clancy's Ghost Recon Breakpoint",
-		"id_steam": "",
+		"id_steam": "2231380",
 		"ids_epic": ["Saffron"],
-		"imagen_pequeña": "https://i.imgur.com/1GzykMr.png",
-		"imagen_grande": "https://i.imgur.com/XTsGHTc.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Tom Clancy's Ghost Recon Future Soldier Ultimate Edition",
@@ -4397,10 +4432,10 @@
 	},
 	{
 		"titulo": "Trackmania",
-		"id_steam": "",
+		"id_steam": "2225070",
 		"ids_epic": ["Pigeon"],
-		"imagen_pequeña": "https://i.imgur.com/fP4KU9C.png",
-		"imagen_grande": "https://i.imgur.com/D82iNua.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Trackmania Turbo",
