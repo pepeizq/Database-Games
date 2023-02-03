@@ -798,6 +798,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "City of Gangsters",
+		"id_steam": "1386780",
+		"ids_epic": ["002b00085aeb49b1a3f3c42e3f918f2f"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Close To The Sun",
 		"id_steam": "968870",
 		"ids_epic": ["Silene"],
@@ -1153,6 +1160,13 @@
 		"ids_epic": ["d2da64bd4c4e422da4b1a88041492a3a"],
 		"imagen_pequeña": "https://i.imgur.com/r3wNY3z.png",
 		"imagen_grande": "https://i.imgur.com/y8Iowjx.png"
+	},
+	{
+		"titulo": "Dishonored: Death of the Outsider",
+		"id_steam": "614570",
+		"ids_epic": ["2fb8273dcf6f41e4899c0c881e047053"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Donut County",
