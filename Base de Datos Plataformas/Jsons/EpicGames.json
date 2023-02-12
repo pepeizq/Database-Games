@@ -1169,6 +1169,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Divine Knockout (DKO)",
+		"id_steam": "1294660",
+		"ids_epic": ["2a7875f5060d4381af355104773ca649"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Donut County",
 		"id_steam": "702670",
 		"ids_epic": ["Kestrel"],
@@ -3017,6 +3024,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Recipe for Disaster",
+		"id_steam": "1492360",
+		"ids_epic": ["61e074e998044594b7bb566fe111687b"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Red Dead Redemption 2",
 		"id_steam": "1174180",
 		"ids_epic": ["Heather"],
@@ -3487,10 +3501,10 @@
 	},
 	{
 		"titulo": "Sonic Colors: Ultimate",
-		"id_steam": "",
+		"id_steam": "2055290",
 		"ids_epic": ["e5071e19d08c45a6bdda5d92fbd0a03e"],
-		"imagen_pequeña": "https://i.imgur.com/biJYYlD.png",
-		"imagen_grande": "https://i.imgur.com/UMcxZkt.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Sonic Mania",
