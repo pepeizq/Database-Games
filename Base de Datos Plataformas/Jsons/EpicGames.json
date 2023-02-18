@@ -4641,6 +4641,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Warpips",
+		"id_steam": "1291010",
+		"ids_epic": ["1f695dfd76d8438d8dd4046fe75daab0"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Watch Dogs",
 		"id_steam": "243470",
 		"ids_epic": ["Jasper"],
