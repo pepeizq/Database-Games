@@ -1225,6 +1225,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Duskers",
+		"id_steam": "254320",
+		"ids_epic": ["1e9c3a9a10c6463e9c065f371b8b42bf"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Dying Light 2 Stay Human",
 		"id_steam": "534380",
 		"ids_epic": ["Red"],
@@ -3083,6 +3090,13 @@
 		"titulo": "Ring of Pain",
 		"id_steam": "998740",
 		"ids_epic": ["130285de16cc429abc603eaf95b8787b"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Rise of Industry",
+		"id_steam": "671440",
+		"ids_epic": ["cf6c487e39a14113b75d1f625fed1da7"],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
