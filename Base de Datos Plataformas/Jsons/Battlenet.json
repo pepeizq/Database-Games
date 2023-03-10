@@ -8,10 +8,10 @@
 	},
 	{
 		"titulo": "Call of Duty: Black Ops Cold War",
-		"id_steam": "",
+		"id_steam": "1985810",
 		"id_battlenet": "ZEUS",
-		"imagen_pequeña": "https://i.imgur.com/Enq0ye3.png",
-		"imagen_grande": "https://i.imgur.com/VFIHWKn.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Call of Duty: Black Ops 4",
@@ -22,10 +22,10 @@
 	},
 	{
 		"titulo": "Call of Duty: Modern Warfare",
-		"id_steam": "",
+		"id_steam": "2000950",
 		"id_battlenet": "ODIN",
-		"imagen_pequeña": "https://i.imgur.com/ZDkcs33.png",
-		"imagen_grande": "https://i.imgur.com/fIhfkCs.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Call of Duty: Modern Warfare II",
@@ -43,10 +43,10 @@
 	},
 	{
 		"titulo": "Call of Duty: Vanguard",
-		"id_steam": "",
+		"id_steam": "1985820",
 		"id_battlenet": "FORE",
-		"imagen_pequeña": "https://i.imgur.com/GX6Yn9o.png",
-		"imagen_grande": "https://i.imgur.com/8Ua8Hp1.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Crash Bandicoot 4: It's About Time",

@@ -686,6 +686,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Call of the Sea",
+		"id_steam": "1042490",
+		"ids_epic": ["6278dd278d714aeb88239a423fa0f8be"],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Car Mechanic Simulator 2018",
 		"id_steam": "645630",
 		"ids_epic": ["8032b75cf0914afa87c78d6914adc165"],
