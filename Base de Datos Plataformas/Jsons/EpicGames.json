@@ -1246,6 +1246,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Dying Light",
+		"id_steam": "239140",
+		"ids_epic": [ "04a54ed532ce4fbfbf8fd5833f60def0" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Dying Light 2 Stay Human",
 		"id_steam": "534380",
 		"ids_epic": [ "Red" ],
@@ -2485,6 +2492,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "MORDHAU",
+		"id_steam": "629760",
+		"ids_epic": [ "2e26af55c1a146e7a939dcc1014fc9fd" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Mortal Shell",
 		"id_steam": "1110910",
 		"ids_epic": [ "0055e45ce7654c55aade646467349e83" ],
@@ -3426,6 +3440,13 @@
 		"titulo": "Shakedown Hawaii",
 		"id_steam": "598730",
 		"ids_epic": [ "Plumeria" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "shapez",
+		"id_steam": "1318690",
+		"ids_epic": [ "e87a43f695bc409ca8858206678ac7e7" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
