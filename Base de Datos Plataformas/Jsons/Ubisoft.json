@@ -372,10 +372,10 @@
 	},
 	{
 		"titulo": "Far Cry 6",
-		"id_steam": "",
-		"ids_ubi": ["5266"],
-		"imagen_pequeña": "https://i.imgur.com/Qss9vYq.png",
-		"imagen_grande": "https://i.imgur.com/1JeaOTd.png"
+		"id_steam": "2369390",
+		"ids_ubi": [ "5266" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Far Cry New Dawn",
@@ -519,10 +519,10 @@
 	},
 	{
 		"titulo": "Monopoly Madness",
-		"id_steam": "",
-		"ids_ubi": ["17905"],
-		"imagen_pequeña": "https://i.imgur.com/bdUGdIZ.jpg",
-		"imagen_grande": "https://i.imgur.com/1Si8bSb.jpg"
+		"id_steam": "2383760",
+		"ids_ubi": [ "17905" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Monopoly Plus",
@@ -645,10 +645,10 @@
 	},
 	{
 		"titulo": "Riders Republic",
-		"id_steam": "",
-		"ids_ubi": ["5487"],
-		"imagen_pequeña": "https://i.imgur.com/bDJXk0i.png",
-		"imagen_grande": "https://i.imgur.com/ubbOYwZ.png"
+		"id_steam": "2290180",
+		"ids_ubi": [ "5487" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Rocksmith",
@@ -904,10 +904,10 @@
 	},
 	{
 		"titulo": "Tom Clancy's Rainbow Six: Extraction",
-		"id_steam": "",
-		"ids_ubi": ["5271"],
-		"imagen_pequeña": "https://i.imgur.com/htk6QrZ.png",
-		"imagen_grande": "https://i.imgur.com/u1IUA8O.jpg"
+		"id_steam": "2379390",
+		"ids_ubi": [ "5271" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Tom Clancy's Rainbow Six: Lockdown",
