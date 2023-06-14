@@ -1407,6 +1407,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Fallout: New Vegas - Ultimate Edition",
+		"id_steam": "22380",
+		"ids_epic": [ "5daeb974a22a435988892319b3a4f476" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Fallout Tactics: Brotherhood of Steel",
 		"id_steam": "38420",
 		"ids_epic": [ "908f75e7f1624819a70c27f543741dcd" ],
@@ -2436,6 +2443,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Midnight Ghost Hunt",
+		"id_steam": "915810",
+		"ids_epic": [ "456f53b28c384f02865874299f956501" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Might & Magic Chess Royale",
 		"id_steam": "",
 		"ids_epic": [ "b141e42965ff431aa0e23bf3d5635942" ],
@@ -2873,6 +2887,13 @@
 		"titulo": "Pathway",
 		"id_steam": "546430",
 		"ids_epic": [ "8fceb562623c430db9bb6abf0549c43e" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "PAYDAY 2",
+		"id_steam": "218620",
+		"ids_epic": [ "7d6b8784bab94d6cac5fea5ab7bb07a4" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},

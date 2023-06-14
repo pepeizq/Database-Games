@@ -70,6 +70,13 @@
 		"imagen_grande": "https://i.imgur.com/2b4fhp3.png"
 	},
 	{
+		"titulo": "Diablo IV",
+		"id_steam": "",
+		"id_battlenet": "Fen",
+		"imagen_pequeña": "https://i.imgur.com/RW6ognO.png",
+		"imagen_grande": "https://i.imgur.com/JuDipTR.png"
+	},
+	{
 		"titulo": "Diablo Immortal",
 		"id_steam": "",
 		"id_battlenet": "ANBS",
