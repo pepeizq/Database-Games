@@ -1764,9 +1764,30 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "GRIME",
+		"id_steam": "1123050",
+		"ids_epic": [ "028263f54a874e35800d142275254d2c" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Griftlands",
 		"id_steam": "601840",
 		"ids_epic": [ "Phlox" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Guacamelee! 2",
+		"id_steam": "534550",
+		"ids_epic": [ "fab83c3bf3d449718e042d44369e7fb6" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Guacamelee! Super Turbo Championship Edition",
+		"id_steam": "275390",
+		"ids_epic": [ "25b902f42cf04b17bc8a3db2f7292d58" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1886,6 +1907,13 @@
 		"titulo": "Hob",
 		"id_steam": "404680",
 		"ids_epic": [ "Lyrebird" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Homeworld Remastered Collection",
+		"id_steam": "244160",
+		"ids_epic": [ "dcfccf8d965a4f2281dddf9fead042de" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4011,6 +4039,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "The Elder Scrolls Online",
+		"id_steam": "306130",
+		"ids_epic": [ "4d0ff75b922447649057c237c0bd1545" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "The End is Nigh",
 		"id_steam": "583470",
 		"ids_epic": [ "Statice" ],
@@ -4574,6 +4609,13 @@
 		"titulo": "Train Sim World 2",
 		"id_steam": "1282590",
 		"ids_epic": [ "dd75b5c168d546cc869582c0389f0a1d" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Train Valley 2",
+		"id_steam": "602320",
+		"ids_epic": [ "a617890cec1542d6ba760ba13f79225e" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
