@@ -70,6 +70,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "911 Operator",
+		"id_steam": "503560",
+		"ids_epic": [ "a7594e61a4f24e6d9495ea959749598e" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "A Game of Thrones: The Board Game",
 		"id_steam": "1075190",
 		"ids_epic": [ "06b8b80d89c24a28a7e91127fcbd9542" ],
@@ -609,6 +616,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Black Book",
+		"id_steam": "1138660",
+		"ids_epic": [ "1d74dcbca79540efb52cab2ff026215f" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Black Widow: Recharged",
 		"id_steam": "1714180",
 		"ids_epic": [ "a21fd90517bf428eb7c995a8c3261722" ],
@@ -619,6 +633,13 @@
 		"titulo": "Blair Witch",
 		"id_steam": "1092660",
 		"ids_epic": [ "247a0f0f5803429eb3be2c06f3ea77ff" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Blazing Sails",
+		"id_steam": "1158940",
+		"ids_epic": [ "ed5f5b7f2e1f43c89ea8bafd15591bda" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1197,6 +1218,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Dodo Peak",
+		"id_steam": "",
+		"ids_epic": [ "30647199e65341c2be84d81fa6964ff0" ],
+		"imagen_pequeña": "https://i.imgur.com/KZONUMn.png",
+		"imagen_grande": "https://i.imgur.com/KfmbEjk.png"
+	},
+	{
 		"titulo": "Donut County",
 		"id_steam": "702670",
 		"ids_epic": [ "Kestrel" ],
@@ -1305,6 +1333,13 @@
 		"titulo": "Epistory - Typing Chronicles",
 		"id_steam": "398850",
 		"ids_epic": [ "4ec72fd8cbd94aa4acc61624c68fbc4f" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Eternal Threads",
+		"id_steam": "1046790",
+		"ids_epic": [ "ff1d9bf6b1304cb9a12b8754afa78ae5" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1561,6 +1596,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Football Manager 2023",
+		"id_steam": "1904540",
+		"ids_epic": [ "f73c70ec448f4e309baacf6ffffa5760" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "For Honor",
 		"id_steam": "304390",
 		"ids_epic": [ "Sundrop" ],
@@ -1667,10 +1709,10 @@
 	},
 	{
 		"titulo": "Ghostbusters: Spirits Unleashed",
-		"id_steam": "",
+		"id_steam": "2383990",
 		"ids_epic": [ "ab374ffb0bab4b399a5d5cbdfde77a37" ],
-		"imagen_pequeña": "https://i.imgur.com/mhv64Hm.png",
-		"imagen_grande": "https://i.imgur.com/yt1CKkM.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Ghostbusters: The Video Game Remastered",
@@ -1683,6 +1725,13 @@
 		"titulo": "Ghostrunner",
 		"id_steam": "1139900",
 		"ids_epic": [ "ea8df71f923649a193ab1c1fded7e1b3" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Ghostwire: Tokyo",
+		"id_steam": "1475810",
+		"ids_epic": [ "007ff8f4e30845a687e66aa77eb3e965" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1706,6 +1755,13 @@
 		"ids_epic": [ "Carp" ],
 		"imagen_pequeña": "https://i.imgur.com/SrNJKwo.png",
 		"imagen_grande": "https://i.imgur.com/mwEPSzf.png"
+	},
+	{
+		"titulo": "Godlike Burger",
+		"id_steam": "1432910",
+		"ids_epic": [ "f7c6294c948b47378659c9a963f449be" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "God's Trigger",
@@ -1732,6 +1788,13 @@
 		"titulo": "Golazo! Soccer League",
 		"id_steam": "1431040",
 		"ids_epic": [ "d29aec5e458544a288f8d9556ea63d56" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Golden Light",
+		"id_steam": "1245430",
+		"ids_epic": [ "0eeaae41305043f7a465310eb2cbaff9" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1907,6 +1970,13 @@
 		"titulo": "Hob",
 		"id_steam": "404680",
 		"ids_epic": [ "Lyrebird" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Homeworld: Deserts of Kharak",
+		"id_steam": "281610",
+		"ids_epic": [ "c9b51edbca4d496cb39c6871f510620b" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -2520,6 +2590,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Model Builder",
+		"id_steam": "1164250",
+		"ids_epic": [ "4a31c45c04e243cc97f3e47bc663fb18" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Monkey Barrels",
 		"id_steam": "1831160",
 		"ids_epic": [ "82002e1b13b642e4a820623f4d92dda2" ],
@@ -2807,9 +2884,23 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Orwell: Keeping an Eye On You",
+		"id_steam": "491950",
+		"ids_epic": [ "8dac074a82a6492ba969bd38df266e58" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Orwell's Animal Farm",
 		"id_steam": "1398100",
 		"ids_epic": [ "2d2246bc1e8148a1a9afc34983891db4" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Out of Line",
+		"id_steam": "1419290",
+		"ids_epic": [ "6b994d7f4f2a4e85a54d5c2ede6d2fed" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -3048,6 +3139,13 @@
 		"titulo": "Pumpkin Jack",
 		"id_steam": "1186640",
 		"ids_epic": [ "9fef3b816031450da8ba85b23820cfbb" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Q.U.B.E. 10th Anniversary",
+		"id_steam": "1564220",
+		"ids_epic": [ "440abc2d035f494a9bf172ed29f9fa2f" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -3633,6 +3731,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Soulstice",
+		"id_steam": "1602080",
+		"ids_epic": [ "d366ae16e31b41869cf26c6ee309e7f3" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "South Park: The Fractured But Whole",
 		"id_steam": "488790",
 		"ids_epic": [ "Alewife" ],
@@ -4067,6 +4172,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "The Evil Within",
+		"id_steam": "268050",
+		"ids_epic": [ "591e049d72b349daa64784a171379357" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "The Fabled Woods",
 		"id_steam": "1299480",
 		"ids_epic": [ "9d3719023dcb41d0a888ff89fca89648" ],
@@ -4098,6 +4210,13 @@
 		"titulo": "The Flower Collectors",
 		"id_steam": "1034750",
 		"ids_epic": [ "d21030b8cc5b4466974b433207fac1dc" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "The Forest Quartet",
+		"id_steam": "1620720",
+		"ids_epic": [ "dbb0b84f31244c7584490d205b74010c" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4530,10 +4649,10 @@
 	},
 	{
 		"titulo": "Tony Hawk's Pro Skater 1 + 2",
-		"id_steam": "",
+		"id_steam": "2395210",
 		"ids_epic": [ "Guppy" ],
-		"imagen_pequeña": "https://i.imgur.com/zp5yk7x.png",
-		"imagen_grande": "https://i.imgur.com/g1KguHV.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Torchlight",
