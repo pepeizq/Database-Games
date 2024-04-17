@@ -7,6 +7,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "20 Minutes Till Dawn",
+		"id_steam": "1966900",
+		"ids_epic": [ "4656facc740742a39e265b026e13d075" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "20XX",
 		"id_steam": "322110",
 		"ids_epic": [ "Quail" ],
@@ -150,6 +157,13 @@
 		"titulo": "AER Memories of Old",
 		"id_steam": "331870",
 		"ids_epic": [ "26b63c46de9e4dcc856b3c6b106b6777" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Aerial_Knights Never Yield",
+		"id_steam": "1323540",
+		"ids_epic": [ "9b2c200d7dec4825a83664d8888adad8" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -455,6 +469,27 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Asteroids: Recharged",
+		"id_steam": "1700890",
+		"ids_epic": [ "ee63838c6c394ce587ec0613c41161a6" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Astro Duel 2",
+		"id_steam": "655350",
+		"ids_epic": [ "e3c0d11648554383b33da58d075fd101" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Atari Mania",
+		"id_steam": "1911800",
+		"ids_epic": [ "b74fd85fc1af47019e4e7a065694141d" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Atomicrops",
 		"id_steam": "757320",
 		"ids_epic": [ "Swan" ],
@@ -679,6 +714,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Breakout: Recharged",
+		"id_steam": "1714190",
+		"ids_epic": [ "daec2330d8114107ac5e953dca5eb8e8" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Breathedge",
 		"id_steam": "738520",
 		"ids_epic": [ "0a20ccd3f1b3464da750a4dbf8c80d7c" ],
@@ -717,6 +759,13 @@
 		"titulo": "Call of the Sea",
 		"id_steam": "1042490",
 		"ids_epic": [ "6278dd278d714aeb88239a423fa0f8be" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Call of the Wild: The Angler",
+		"id_steam": "1408610",
+		"ids_epic": [ "fe4168b810314c2fb93f1803e2fe431e" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -777,9 +826,23 @@
 		"imagen_grande": "https://i.imgur.com/kUbyLXK.png"
 	},
 	{
+		"titulo": "Cat Quest",
+		"id_steam": "593280",
+		"ids_epic": [ "051eaac0842c46d7a5a62858ad534d5a" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Cave Story+",
 		"id_steam": "200900",
 		"ids_epic": [ "1dea8a6ddb544842a58e4b5c8675ff58" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Caverns of Mars: Recharged",
+		"id_steam": "2213980",
+		"ids_epic": [ "8dc2dbb961e0490ab85efc7ae0b8b1eb" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -987,6 +1050,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Cursed to Golf",
+		"id_steam": "1726120",
+		"ids_epic": [ "077d2507a5fe4073bf0dd69485f425f5" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Cyanide & Happiness - Freakpocalypse",
 		"id_steam": "869880",
 		"ids_epic": [ "a43520ea65e1429b86e49d2ab9a4e4dd" ],
@@ -1004,6 +1074,13 @@
 		"titulo": "DAEMON X MACHINA",
 		"id_steam": "1167450",
 		"ids_epic": [ "f4f0d39fbb4640e0be62aa91d9eca87d" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Dakar Desert Rally",
+		"id_steam": "1839940",
+		"ids_epic": [ "4aff63ad39cb4fe7a61720d59a4cebc6" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1113,9 +1190,23 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "DEATHLOOP",
+		"id_steam": "1252330",
+		"ids_epic": [ "3206dba3f9b14fd3b01c18f9dcbc864a" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Defense Grid: The Awakening",
 		"id_steam": "18500",
 		"ids_epic": [ "a434dcb20f0d439b93aaa31dac9e3210" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Deliver Us Mars",
+		"id_steam": "1345890",
+		"ids_epic": [ "9d943a160fa841859ac5c1f233789fcb" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1169,6 +1260,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Deus Ex: Mankind Divided",
+		"id_steam": "337000",
+		"ids_epic": [ "2eaba703e63e4ed8bd2919ed552021d6" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Diabotical",
 		"id_steam": "",
 		"ids_epic": [ "Honeycreeper" ],
@@ -1218,6 +1316,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "DNF Duel",
+		"id_steam": "1216060",
+		"ids_epic": [ "82cdbdf05c61474d89c4f9e8a8bf0ea4" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Dodo Peak",
 		"id_steam": "",
 		"ids_epic": [ "30647199e65341c2be84d81fa6964ff0" ],
@@ -1225,9 +1330,23 @@
 		"imagen_grande": "https://i.imgur.com/KfmbEjk.png"
 	},
 	{
+		"titulo": "Doki Doki Literature Club Plus!",
+		"id_steam": "1388880",
+		"ids_epic": [ "c5109bdceb3a453bb38c2fdc964ddee8" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Donut County",
 		"id_steam": "702670",
 		"ids_epic": [ "Kestrel" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Doors: Paradox",
+		"id_steam": "1622770",
+		"ids_epic": [ "a4a58a236fc544c6b47bf72706946ef1%3A91e82f342ebf42309703e9ba363daedf" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1295,6 +1414,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "EARTHLOCK",
+		"id_steam": "761030",
+		"ids_epic": [ "4a4ffcf1a8354008bcc3b28280dd2419" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "ELEX",
 		"id_steam": "411300",
 		"ids_epic": [ "f120f1dd840748deacc695d19a9022c5" ],
@@ -1333,6 +1459,13 @@
 		"titulo": "Epistory - Typing Chronicles",
 		"id_steam": "398850",
 		"ids_epic": [ "4ec72fd8cbd94aa4acc61624c68fbc4f" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Escape Academy",
+		"id_steam": "1812090",
+		"ids_epic": [ "4237ffc575c94a0e89ef9ab7dd884ad5" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1736,6 +1869,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "GigaBash",
+		"id_steam": "1546400",
+		"ids_epic": [ "2dc25e07aa624edf9ff132c09ce23a7c" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Gloomhaven",
 		"id_steam": "780290",
 		"ids_epic": [ "1bcd791d54684eb29ed32ad1c0593d12" ],
@@ -1823,6 +1963,13 @@
 		"titulo": "Grand Theft Auto V",
 		"id_steam": "271590",
 		"ids_epic": [ "9d2d0eb64d5c44529cece33fe2a46482" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Gravitar: Recharged",
+		"id_steam": "1905430",
+		"ids_epic": [ "c95cf7b0131242a9adb150bbab01565f" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -2072,13 +2219,6 @@
 		"imagen_grande": ""
 	},
 	{
-		"titulo": "Industries of Titan",
-		"id_steam": "427940",
-		"ids_epic": [ "Protea" ],
-		"imagen_pequeña": "",
-		"imagen_grande": ""
-	},
-	{
 		"titulo": "Immortals Fenyx Rising",
 		"id_steam": "2221920",
 		"ids_epic": [ "Pheasant" ],
@@ -2089,6 +2229,20 @@
 		"titulo": "In Sound Mind",
 		"id_steam": "1119980",
 		"ids_epic": [ "29ee5d32f328471590b3bd3ac03ed7d0" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Industries of Titan",
+		"id_steam": "427940",
+		"ids_epic": [ "Protea" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Infinifactory",
+		"id_steam": "300570",
+		"ids_epic": [ "c7b3c16f56cb45abbfd915d59fd39689" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -2121,6 +2275,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Invincible Presents: Atom Eve",
+		"id_steam": "2060870",
+		"ids_epic": [ "ef50503adc284a8ba65d4dea1ecce91a" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "iRacing",
 		"id_steam": "266410",
 		"ids_epic": [ "3dda7ecb990341c599d2554bb1783259" ],
@@ -2138,6 +2299,20 @@
 		"titulo": "Ironcast",
 		"id_steam": "327670",
 		"ids_epic": [ "ac8f20a7931e4d63a1db4dc1267ec3d1" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Islets",
+		"id_steam": "1669420",
+		"ids_epic": [ "5e37739a766b4457981d2992f93ac72c" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Jitsu Squad",
+		"id_steam": "1522080",
+		"ids_epic": [ "ca584681f53d4dedab49340ad598e1b8" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -2303,6 +2478,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Kombinera",
+		"id_steam": "1827740",
+		"ids_epic": [ "14b24b932f3f484f8c707157c29f9c43" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Kosmokrats",
 		"id_steam": "1204410",
 		"ids_epic": [ "09f57ff642e54a37b24cd8d0ad94d038" ],
@@ -2422,9 +2604,23 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Lost Castle",
+		"id_steam": "434650",
+		"ids_epic": [ "7d5ec41fb5ae49c5beca9360034fd57e" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Lost Words: Beyond the Page",
 		"id_steam": "599610",
 		"ids_epic": [ "1d114dfdf40c4b5695c5d2cf6d4b590b" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "LOVE",
+		"id_steam": "269270",
+		"ids_epic": [ "f99d3d6da3454662913621222037417d" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -2513,6 +2709,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Melvor Idle",
+		"id_steam": "1267910",
+		"ids_epic": [ "7458160f5c18450cad7e95844a5dcdff" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Merchant of the Skies",
 		"id_steam": "1040070",
 		"ids_epic": [ "0ef46109342d47669b36e5ec7e1c0546" ],
@@ -2565,6 +2768,13 @@
 		"titulo": "Might & Magic Heroes VII: Ultimate Edition",
 		"id_steam": "321960",
 		"ids_epic": [ "f324cf34cd1a4a94901e003d14da37b1" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Mighty Fight Federation",
+		"id_steam": "1096690",
+		"ids_epic": [ "c9a6ab84f1ea48afb2317a9429a0da9a" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -3101,6 +3311,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Predecessor",
+		"id_steam": "961200",
+		"ids_epic": [ "97b084f37e344733ac82f493ac90753c" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Prey",
 		"id_steam": "480490",
 		"ids_epic": [ "52d88e9a6df248da913c8e99f1e4c526" ],
@@ -3416,6 +3633,20 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Sail Forth",
+		"id_steam": "1031460",
+		"ids_epic": [ "11ba63f98ce94a38b631104a12c7adab" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Saints Row",
+		"id_steam": "742420",
+		"ids_epic": [ "Cormorant" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Saints Row IV Re-Elected",
 		"id_steam": "206420",
 		"ids_epic": [ "0d35a1d0eade40c5ac0bea5eed8b5338" ],
@@ -3466,10 +3697,10 @@
 	},
 	{
 		"titulo": "Saturnalia",
-		"id_steam": "",
+		"id_steam": "916350",
 		"ids_epic": [ "Cobia" ],
-		"imagen_pequeña": "https://i.imgur.com/Z9tSmdu.png",
-		"imagen_grande": "https://i.imgur.com/ZqJBIyq.jpg"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "Saviors of Sapphire Wings & Strangers of Sword City Revisited",
@@ -3687,6 +3918,13 @@
 		"ids_epic": [ "Greenbul" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
+	},
+	{
+		"titulo": "Snakebird Complete",
+		"id_steam": "",
+		"ids_epic": [ "8337d1f975514d35ad0c1176e8a29f26" ],
+		"imagen_pequeña": "https://i.imgur.com/3fQElED.png",
+		"imagen_grande": "https://i.imgur.com/A85w818.jpeg"
 	},
 	{
 		"titulo": "Snowrunner",
@@ -4046,6 +4284,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Tandem: A Tale of Shadows",
+		"id_steam": "1436920",
+		"ids_epic": [ "57ad8e72d9a446dea9ef5cac2770a0b8" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Tannenberg",
 		"id_steam": "633460",
 		"ids_epic": [ "ecfdc10170eb49b6b61cf16b3aa36d56" ],
@@ -4082,10 +4327,10 @@
 	},
 	{
 		"titulo": "The Alto Collection",
-		"id_steam": "",
+		"id_steam": "2837600",
 		"ids_epic": [ "Hornbill" ],
-		"imagen_pequeña": "https://i.imgur.com/z6QJy4S.png",
-		"imagen_grande": "https://i.imgur.com/9BfRSxr.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "The Binding of Isaac: Repentance",
@@ -4175,6 +4420,13 @@
 		"titulo": "The Evil Within",
 		"id_steam": "268050",
 		"ids_epic": [ "591e049d72b349daa64784a171379357" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "The Evil Within 2",
+		"id_steam": "601430",
+		"ids_epic": [ "74977fee80de4e5e9f663e62560a0f2f" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4329,6 +4581,13 @@
 		"titulo": "The Outer Worlds",
 		"id_steam": "578650",
 		"ids_epic": [ "Rosemallow" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "The Outer Worlds: Spacer's Choice Edition",
+		"id_steam": "1920490",
+		"ids_epic": [ "cb3bf7ba89574a66ae3b795e039d4dbc" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4518,6 +4777,13 @@
 		"titulo": "Them's Fightin' Herds",
 		"id_steam": "574980",
 		"ids_epic": [ "2d9d7555ccdd4ceaa1b60e501ba0bacd" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Thief",
+		"id_steam": "239160",
+		"ids_epic": [ "4123bcce398b4b1d8b9ef878f81055d1" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4791,6 +5057,13 @@
 		"titulo": "Tunche",
 		"id_steam": "887450",
 		"ids_epic": [ "fd51551d919847beb178985f6daf0306" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Turnip Boy Commits Tax Evasion",
+		"id_steam": "1205450",
+		"ids_epic": [ "3d34f303a68c44c2a9b44a3988533e90" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -5085,6 +5358,13 @@
 		"titulo": "Yaga",
 		"id_steam": "888530",
 		"ids_epic": [ "Robin" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Yars: Recharged",
+		"id_steam": "2019990",
+		"ids_epic": [ "997db36e392641b08b2c4b46610bfe68" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},

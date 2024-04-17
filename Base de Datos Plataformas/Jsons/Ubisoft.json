@@ -2,371 +2,385 @@
 	{
 		"titulo": "Anno 1404",
 		"id_steam": "33250",
-		"ids_ubi": ["89"],
+		"ids_ubi": [ "89" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Anno 1404 - History Edition",
 		"id_steam": "1281630",
-		"ids_ubi": ["16232"],
+		"ids_ubi": [ "16232" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Anno 1503 - History Edition",
 		"id_steam": "",
-		"ids_ubi": ["16234"],
+		"ids_ubi": [ "16234" ],
 		"imagen_pequeña": "https://i.imgur.com/1NqCd9L.jpg",
 		"imagen_grande": "https://i.imgur.com/dUD46BG.png"
 	},
 	{
 		"titulo": "Anno 1602",
 		"id_steam": "",
-		"ids_ubi": ["2990"],
+		"ids_ubi": [ "2990" ],
 		"imagen_pequeña": "https://i.imgur.com/3q4ZU4n.jpg",
 		"imagen_grande": "https://i.imgur.com/IAx1AZr.png"
 	},
 	{
 		"titulo": "Anno 1602 - History Edition",
 		"id_steam": "",
-		"ids_ubi": ["16236"],
+		"ids_ubi": [ "16236" ],
 		"imagen_pequeña": "https://i.imgur.com/cYTUD87.jpg",
 		"imagen_grande": "https://i.imgur.com/u63FbBk.jpg"
 	},
 	{
 		"titulo": "Anno 1701 - History Edition",
 		"id_steam": "",
-		"ids_ubi": ["16238"],
+		"ids_ubi": [ "16238" ],
 		"imagen_pequeña": "https://i.imgur.com/w7N9WEv.jpg",
 		"imagen_grande": "https://i.imgur.com/NtGAk18.jpg"
 	},
 	{
 		"titulo": "Anno 1800",
 		"id_steam": "916440",
-		"ids_ubi": ["4553"],
+		"ids_ubi": [ "4553" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Anno 2070",
 		"id_steam": "48240",
-		"ids_ubi": ["22"],
+		"ids_ubi": [ "22" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Anno 2205",
 		"id_steam": "375910",
-		"ids_ubi": ["1253"],
+		"ids_ubi": [ "1253" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Assassin's Creed",
 		"id_steam": "15100",
-		"ids_ubi": ["82"],
+		"ids_ubi": [ "82" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/TRj8q6t.png"
 	},
 	{
 		"titulo": "Assassin's Creed Brotherhood",
 		"id_steam": "48190",
-		"ids_ubi": ["26"],
+		"ids_ubi": [ "26" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Assassin's Creed Chronicles China",
 		"id_steam": "354380",
-		"ids_ubi": ["1651"],
+		"ids_ubi": [ "1651" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/D72KPXF.jpg"
 	},
 	{
 		"titulo": "Assassin's Creed Chronicles India",
 		"id_steam": "359610",
-		"ids_ubi": ["1847"],
+		"ids_ubi": [ "1847" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/7fmLaGI.png"
 	},
 	{
 		"titulo": "Assassin's Creed Chronicles Russia",
 		"id_steam": "359600",
-		"ids_ubi": ["1848"],
+		"ids_ubi": [ "1848" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/snn32yB.jpg"
 	},
 	{
 		"titulo": "Assassin's Creed Freedom Cry",
 		"id_steam": "277590",
-		"ids_ubi": ["664"],
+		"ids_ubi": [ "664" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/cXsIDP4.png"
 	},
 	{
 		"titulo": "Assassin's Creed II",
 		"id_steam": "33230",
-		"ids_ubi": ["4"],
+		"ids_ubi": [ "4" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Assassin's Creed III",
 		"id_steam": "208480",
-		"ids_ubi": ["54","103","104","105"],
+		"ids_ubi": [ "54", "103", "104", "105" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Assassin's Creed III Remastered",
 		"id_steam": "911400",
-		"ids_ubi": ["5183","5184"],
+		"ids_ubi": [ "5183", "5184" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/T8hOUhj.jpg"
 	},
 	{
 		"titulo": "Assassin's Creed IV Black Flag",
 		"id_steam": "242050",
-		"ids_ubi": ["273","441","442"],
+		"ids_ubi": [ "273", "441", "442" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Assassin's Creed Liberation HD",
 		"id_steam": "260210",
-		"ids_ubi": ["625","632"],
+		"ids_ubi": [ "625", "632" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/Z3g2WDq.png"
 	},
 	{
+		"titulo": "Assassin's Creed Mirage",
+		"id_steam": "",
+		"ids_ubi": [ "6100" ],
+		"imagen_pequeña": "https://i.imgur.com/uTF7pPF.png",
+		"imagen_grande": "https://i.imgur.com/8xZ3spu.png"
+	},
+	{
 		"titulo": "Assassin's Creed Odyssey",
 		"id_steam": "812140",
-		"ids_ubi": ["5059"],
+		"ids_ubi": [ "5059" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Assassin's Creed Origins",
 		"id_steam": "582160",
-		"ids_ubi": ["3539"],
+		"ids_ubi": [ "3539" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Assassin's Creed Revelations",
 		"id_steam": "201870",
-		"ids_ubi": ["40"],
+		"ids_ubi": [ "40" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/kS448ea.png"
 	},
 	{
 		"titulo": "Assassin's Creed Rogue",
 		"id_steam": "311560",
-		"ids_ubi": ["895","1186"],
+		"ids_ubi": [ "895", "1186" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Assassin's Creed Syndicate",
 		"id_steam": "368500",
-		"ids_ubi": ["1875","1955"],
+		"ids_ubi": [ "1875", "1955" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Assassin's Creed Unity",
 		"id_steam": "289650",
-		"ids_ubi": ["720","944"],
+		"ids_ubi": [ "720", "944" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
-		{
+	{
 		"titulo": "Assassin's Creed Valhalla",
 		"id_steam": "2208920",
-		"ids_ubi": ["13504"],
+		"ids_ubi": [ "13504" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Atomega",
 		"id_steam": "619880",
-		"ids_ubi": ["5060"],
+		"ids_ubi": [ "5060" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/uWzZF1k.png"
 	},
 	{
+		"titulo": "Avatar: Frontier of Pandora",
+		"id_steam": "",
+		"ids_ubi": [ "4740" ],
+		"imagen_pequeña": "https://i.imgur.com/PpLvvVy.jpeg",
+		"imagen_grande": "https://i.imgur.com/7gu2VDZ.jpeg"
+	},
+	{
 		"titulo": "Beyond Good and Evil",
 		"id_steam": "15130",
-		"ids_ubi": ["232"],
+		"ids_ubi": [ "232" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/LQcTpMg.jpg"
 	},
 	{
 		"titulo": "Blazing Angels: Squadrons of WWII",
 		"id_steam": "15220",
-		"ids_ubi": ["266"],
+		"ids_ubi": [ "266" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/FmkX0Ti.png"
 	},
 	{
 		"titulo": "Blazing Angels 2: Secret Missions of WWII",
 		"id_steam": "15230",
-		"ids_ubi": ["267"],
+		"ids_ubi": [ "267" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/A10Gdyj.png"
 	},
 	{
 		"titulo": "Brothers in Arms: Earned in Blood",
 		"id_steam": "19800",
-		"ids_ubi": ["271"],
+		"ids_ubi": [ "271" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/po9GAx7.png"
 	},
 	{
 		"titulo": "Brothers in Arms: Hell's Highway",
 		"id_steam": "15390",
-		"ids_ubi": ["272"],
+		"ids_ubi": [ "272" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/mdbxAtz.png"
 	},
 	{
 		"titulo": "Brothers in Arms: Road to Hill 30",
 		"id_steam": "15190",
-		"ids_ubi": ["270"],
+		"ids_ubi": [ "270" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/R0Y43nl.png"
 	},
 	{
 		"titulo": "Call of Juarez: Bound in Blood",
 		"id_steam": "21980",
-		"ids_ubi": ["112"],
+		"ids_ubi": [ "112" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Call of Juarez: Gunslinger",
 		"id_steam": "204450",
-		"ids_ubi": ["344"],
+		"ids_ubi": [ "344" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Champions of Anteria",
 		"id_steam": "374520",
-		"ids_ubi": ["825"],
+		"ids_ubi": [ "825" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Child of Light",
 		"id_steam": "256290",
-		"ids_ubi": ["609"],
+		"ids_ubi": [ "609" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/7ui45bN.png"
 	},
 	{
 		"titulo": "Cloudberry Kingdom",
 		"id_steam": "210870",
-		"ids_ubi": ["436"],
+		"ids_ubi": [ "436" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/WZ3rfte.png"
 	},
 	{
 		"titulo": "Cold Fear",
 		"id_steam": "15270",
-		"ids_ubi": ["233"],
+		"ids_ubi": [ "233" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/sQldDwc.png"
 	},
 	{
 		"titulo": "CSI: Hard Evidence",
 		"id_steam": "21730",
-		"ids_ubi": ["682"],
+		"ids_ubi": [ "682" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/BFcXzVQ.jpg"
 	},
 	{
 		"titulo": "Dark Messiah of Might and Magic",
 		"id_steam": "2100",
-		"ids_ubi": ["269"],
+		"ids_ubi": [ "269" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Discovery Tour by Assassin’s Creed: Ancient Egypt",
 		"id_steam": "775430",
-		"ids_ubi": ["5100"],
+		"ids_ubi": [ "5100" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/JoBxTvR.png"
 	},
 	{
 		"titulo": "Discovery Tour by Assassin’s Creed: Ancient Greece",
 		"id_steam": "",
-		"ids_ubi": ["5404"],
+		"ids_ubi": [ "5404" ],
 		"imagen_pequeña": "https://i.imgur.com/I2ErhL4.png",
 		"imagen_grande": "https://i.imgur.com/gUcntCI.png"
 	},
 	{
 		"titulo": "Driv3r",
 		"id_steam": "",
-		"ids_ubi": ["249"],
+		"ids_ubi": [ "249" ],
 		"imagen_pequeña": "https://i.imgur.com/qSTDSCH.png",
 		"imagen_grande": "https://i.imgur.com/Shjz3qG.png"
 	},
 	{
 		"titulo": "Driver Parallel Lines",
 		"id_steam": "21780",
-		"ids_ubi": ["252"],
+		"ids_ubi": [ "252" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/BZdCG29.jpg"
 	},
 	{
 		"titulo": "Driver San Francisco",
 		"id_steam": "33440",
-		"ids_ubi": ["13"],
+		"ids_ubi": [ "13" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/lIH7gOY.jpg"
 	},
 	{
 		"titulo": "Far Cry",
 		"id_steam": "13520",
-		"ids_ubi": ["84"],
+		"ids_ubi": [ "84" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/Uw9LJFE.png"
 	},
 	{
 		"titulo": "Far Cry 2",
 		"id_steam": "19900",
-		"ids_ubi": ["85"],
+		"ids_ubi": [ "85" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Far Cry 3",
 		"id_steam": "220240",
-		"ids_ubi": ["46"],
+		"ids_ubi": [ "46" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Far Cry 3 - Blood Dragon",
 		"id_steam": "233270",
-		"ids_ubi": ["205"],
+		"ids_ubi": [ "205" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/7kq2WGr.png"
 	},
 	{
 		"titulo": "Far Cry 4",
 		"id_steam": "298110",
-		"ids_ubi": ["420","969"],
+		"ids_ubi": [ "420", "969" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Far Cry 5",
 		"id_steam": "552520",
-		"ids_ubi": ["1803"],
+		"ids_ubi": [ "1803" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -380,140 +394,140 @@
 	{
 		"titulo": "Far Cry New Dawn",
 		"id_steam": "939960",
-		"ids_ubi": ["5210"],
+		"ids_ubi": [ "5210" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Far Cry Primal",
 		"id_steam": "371660",
-		"ids_ubi": ["2010"],
+		"ids_ubi": [ "2010" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Flashback",
 		"id_steam": "245730",
-		"ids_ubi": ["422"],
+		"ids_ubi": [ "422" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/tAit1jC.png"
 	},
 	{
 		"titulo": "For Honor",
 		"id_steam": "304390",
-		"ids_ubi": ["3458"],
+		"ids_ubi": [ "3458" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "From Dust",
 		"id_steam": "33460",
-		"ids_ubi": ["30"],
+		"ids_ubi": [ "30" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/t4tz8Ij.png"
 	},
 	{
 		"titulo": "Grow Home",
 		"id_steam": "323320",
-		"ids_ubi": ["1108"],
+		"ids_ubi": [ "1108" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/uRs6eM6.png"
 	},
 	{
 		"titulo": "Grow Up",
 		"id_steam": "426790",
-		"ids_ubi": ["3120"],
+		"ids_ubi": [ "3120" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/lDLQ1O6.jpg"
 	},
 	{
 		"titulo": "Heroes of Might and Magic",
 		"id_steam": "",
-		"ids_ubi": ["351"],
+		"ids_ubi": [ "351" ],
 		"imagen_pequeña": "https://i.imgur.com/GjENhGb.png",
 		"imagen_grande": "https://i.imgur.com/12Lw8Ax.png"
 	},
 	{
 		"titulo": "Heroes of Might and Magic 2",
 		"id_steam": "",
-		"ids_ubi": ["352"],
+		"ids_ubi": [ "352" ],
 		"imagen_pequeña": "https://i.imgur.com/vs4eYgX.png",
 		"imagen_grande": "https://i.imgur.com/wldOwsu.png"
 	},
 	{
 		"titulo": "Heroes of Might and Magic 3 Complete Edition",
 		"id_steam": "",
-		"ids_ubi": ["353"],
+		"ids_ubi": [ "353" ],
 		"imagen_pequeña": "https://i.imgur.com/YpGqZ7j.png",
 		"imagen_grande": "https://i.imgur.com/nIqRXmW.png"
 	},
 	{
 		"titulo": "Heroes of Might & Magic V",
 		"id_steam": "15170",
-		"ids_ubi": ["87"],
+		"ids_ubi": [ "87" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/xPUDeBc.png"
 	},
 	{
 		"titulo": "I am Alive",
 		"id_steam": "214250",
-		"ids_ubi": ["93"],
+		"ids_ubi": [ "93" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/GY0pnbR.png"
 	},
 	{
 		"titulo": "Immortals Fenyx Rising",
 		"id_steam": "2221920",
-		"ids_ubi": ["5405"],
+		"ids_ubi": [ "5405" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Just Dance 2017",
 		"id_steam": "446560",
-		"ids_ubi": ["3130"],
+		"ids_ubi": [ "3130" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/kZONEg7.png"
 	},
 	{
 		"titulo": "Mad Riders",
 		"id_steam": "208860",
-		"ids_ubi": ["345"],
+		"ids_ubi": [ "345" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/jxEkFoB.png"
 	},
 	{
 		"titulo": "Might & Magic: Chess Royale",
 		"id_steam": "",
-		"ids_ubi": ["5613"],
+		"ids_ubi": [ "5613" ],
 		"imagen_pequeña": "https://i.imgur.com/oPz5lEn.png",
 		"imagen_grande": "https://i.imgur.com/1bYbvxT.png"
 	},
 	{
 		"titulo": "Might & Magic: Heroes VI",
 		"id_steam": "48220",
-		"ids_ubi": ["44"],
+		"ids_ubi": [ "44" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/JbpISg5.png"
 	},
 	{
 		"titulo": "Might & Magic: Heroes VII",
 		"id_steam": "321960",
-		"ids_ubi": ["1176"],
+		"ids_ubi": [ "1176" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Might & Magic IX",
 		"id_steam": "",
-		"ids_ubi": ["350"],
+		"ids_ubi": [ "350" ],
 		"imagen_pequeña": "https://i.imgur.com/a9sJaka.png",
 		"imagen_grande": "https://i.imgur.com/sMVcLkl.png"
 	},
 	{
 		"titulo": "Might & Magic X Legacy",
 		"id_steam": "238750",
-		"ids_ubi": ["401"],
+		"ids_ubi": [ "401" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/HM4QOW6.jpg"
 	},
@@ -527,119 +541,133 @@
 	{
 		"titulo": "Monopoly Plus",
 		"id_steam": "562810",
-		"ids_ubi": ["3774"],
+		"ids_ubi": [ "3774" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/tJJ8PcF.png"
 	},
 	{
 		"titulo": "Ode",
 		"id_steam": "",
-		"ids_ubi": ["9797"],
+		"ids_ubi": [ "9797" ],
 		"imagen_pequeña": "https://i.imgur.com/AY0uCOE.jpg",
 		"imagen_grande": "https://i.imgur.com/IOStDhW.png"
 	},
 	{
 		"titulo": "Petz Catz 2",
 		"id_steam": "15150",
-		"ids_ubi": ["691"],
+		"ids_ubi": [ "691" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/5ZYTFyK.png"
 	},
 	{
 		"titulo": "Petz Dogz 2",
 		"id_steam": "15140",
-		"ids_ubi": ["692"],
+		"ids_ubi": [ "692" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/57wD2JU.png"
 	},
 	{
 		"titulo": "Petz Horsez 2",
 		"id_steam": "15160",
-		"ids_ubi": ["693"],
+		"ids_ubi": [ "693" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/bjJgWy8.png"
 	},
 	{
 		"titulo": "Prince of Persia: The Forgotten Sands",
 		"id_steam": "33320",
-		"ids_ubi": ["11"],
+		"ids_ubi": [ "11" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/ZQBdsKP.png"
 	},
 	{
+		"titulo": "Prince of Persia: The Lost Crown",
+		"id_steam": "",
+		"ids_ubi": [ "6145" ],
+		"imagen_pequeña": "https://i.imgur.com/to9F8jb.png",
+		"imagen_grande": "https://i.imgur.com/lgO6QTx.png"
+	},
+	{
 		"titulo": "Prince of Persia: The Sands of Time",
 		"id_steam": "13600",
-		"ids_ubi": ["111"],
+		"ids_ubi": [ "111" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/zYoGxUn.png"
 	},
 	{
 		"titulo": "Prince of Persia: The Two Thrones",
 		"id_steam": "13530",
-		"ids_ubi": ["113"],
+		"ids_ubi": [ "113" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/7mPQUya.png"
 	},
 	{
 		"titulo": "Prince of Persia: Warrior Within",
 		"id_steam": "13500",
-		"ids_ubi": ["121"],
+		"ids_ubi": [ "121" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/q0xejgs.jpg"
 	},
 	{
 		"titulo": "Prince of Persia (2008)",
 		"id_steam": "19980",
-		"ids_ubi": ["277"],
+		"ids_ubi": [ "277" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/OjKkSON.png"
 	},
 	{
 		"titulo": "Rabbits Coding!",
 		"id_steam": "",
-		"ids_ubi": ["5408"],
+		"ids_ubi": [ "5408" ],
 		"imagen_pequeña": "https://i.imgur.com/qH5pr0O.png",
 		"imagen_grande": "https://i.imgur.com/bC0eGnu.png"
 	},
 	{
+		"titulo": "Rabbids: Party of Legends",
+		"id_steam": "",
+		"ids_ubi": [ "61578" ],
+		"imagen_pequeña": "https://i.imgur.com/ywwg2UY.jpeg",
+		"imagen_grande": "https://i.imgur.com/viEyUz0.jpeg"
+	},
+	{
 		"titulo": "Rayman 1 Forever",
 		"id_steam": "",
-		"ids_ubi": ["2968"],
+		"ids_ubi": [ "2968" ],
 		"imagen_pequeña": "https://i.imgur.com/UuXvAdL.png",
 		"imagen_grande": "https://i.imgur.com/hloJz55.png"
 	},
 	{
 		"titulo": "Rayman 2 - The Great Escape",
 		"id_steam": "15060",
-		"ids_ubi": ["361"],
+		"ids_ubi": [ "361" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/Hwz44V5.png"
 	},
 	{
 		"titulo": "Rayman 3 - Hoodlum Havoc",
 		"id_steam": "",
-		"ids_ubi": ["360"],
+		"ids_ubi": [ "360" ],
 		"imagen_pequeña": "https://i.imgur.com/LNu68Yd.png",
 		"imagen_grande": "https://i.imgur.com/w77VHq3.png"
 	},
 	{
 		"titulo": "Rayman Legends",
 		"id_steam": "242550",
-		"ids_ubi": ["410"],
+		"ids_ubi": [ "410" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/T5uy7S3.png"
 	},
 	{
 		"titulo": "Rayman Origins",
 		"id_steam": "207490",
-		"ids_ubi": ["80"],
+		"ids_ubi": [ "80" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/3lq01UR.png"
 	},
 	{
 		"titulo": "Rayman Raving Rabbids",
 		"id_steam": "15080",
-		"ids_ubi": ["362"],
+		"ids_ubi": [ "362" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/lBBQdUT.png"
 	},
@@ -653,252 +681,252 @@
 	{
 		"titulo": "Rocksmith",
 		"id_steam": "205190",
-		"ids_ubi": ["268"],
+		"ids_ubi": [ "268" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/kVB7y48.jpg"
 	},
 	{
 		"titulo": "Rocksmith 2014",
 		"id_steam": "221680",
-		"ids_ubi": ["301"],
+		"ids_ubi": [ "301" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Roller Champions",
 		"id_steam": "2211280",
-		"ids_ubi": ["11899"],
+		"ids_ubi": [ "11899" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Scott Pilgrim vs the World: The Game",
 		"id_steam": "2215260",
-		"ids_ubi": ["5705"],
+		"ids_ubi": [ "5705" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Shaun White Skateboarding",
 		"id_steam": "",
-		"ids_ubi": ["20"],
+		"ids_ubi": [ "20" ],
 		"imagen_pequeña": "https://i.imgur.com/XwKhMqU.png",
 		"imagen_grande": "https://i.imgur.com/6WBKoLL.png"
 	},
 	{
 		"titulo": "ShootMania Storm",
 		"id_steam": "229870",
-		"ids_ubi": ["126"],
+		"ids_ubi": [ "126" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Silent Hunter 2",
 		"id_steam": "",
-		"ids_ubi": ["2988"],
+		"ids_ubi": [ "2988" ],
 		"imagen_pequeña": "https://i.imgur.com/kGhR000.jpg",
 		"imagen_grande": "https://i.imgur.com/xZnsyQb.png"
 	},
 	{
 		"titulo": "Silent Hunter 3",
 		"id_steam": "15210",
-		"ids_ubi": ["292"],
+		"ids_ubi": [ "292" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/PrfpF97.png"
 	},
 	{
 		"titulo": "Silent Hunter 4: Wolves of the Pacific",
 		"id_steam": "15200",
-		"ids_ubi": ["698"],
+		"ids_ubi": [ "698" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/95p2Img.png"
 	},
 	{
 		"titulo": "Silent Hunter 5: Battle of the Atlantic",
 		"id_steam": "48110",
-		"ids_ubi": ["3"],
+		"ids_ubi": [ "3" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/EOIVJDr.png"
 	},
 	{
 		"titulo": "South Park: The Fractured But Whole",
 		"id_steam": "488790",
-		"ids_ubi": ["3088"],
+		"ids_ubi": [ "3088" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "South Park: The Stick of Truth",
 		"id_steam": "213670",
-		"ids_ubi": ["3584"],
+		"ids_ubi": [ "3584" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Starlink: Battle for Atlas",
 		"id_steam": "950050",
-		"ids_ubi": ["5277"],
+		"ids_ubi": [ "5277" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/FoCn9Ia.png"
 	},
 	{
 		"titulo": "Space Junkies",
 		"id_steam": "647590",
-		"ids_ubi": ["5056"],
+		"ids_ubi": [ "5056" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/1WPnyCg.png"
 	},
 	{
 		"titulo": "Steep",
 		"id_steam": "460920",
-		"ids_ubi": ["3279"],
+		"ids_ubi": [ "3279" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "The Adventures of Tintin: The Game",
 		"id_steam": "",
-		"ids_ubi": ["33"],
+		"ids_ubi": [ "33" ],
 		"imagen_pequeña": "https://i.imgur.com/SFhLRYf.jpg",
 		"imagen_grande": "https://i.imgur.com/0a8cpMQ.jpg"
 	},
 	{
 		"titulo": "The Crew",
 		"id_steam": "241560",
-		"ids_ubi": ["413","507"],
+		"ids_ubi": [ "413", "507" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/MeAULJy.png"
 	},
 	{
 		"titulo": "The Crew 2",
 		"id_steam": "646910",
-		"ids_ubi": ["2855"],
+		"ids_ubi": [ "2855" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "The Expendables 2 Videogame",
 		"id_steam": "417640",
-		"ids_ubi": ["346"],
+		"ids_ubi": [ "346" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/K5JVKs4.png"
 	},
 	{
 		"titulo": "The Settlers - History Edition",
 		"id_steam": "",
-		"ids_ubi": ["11662"],
+		"ids_ubi": [ "11662" ],
 		"imagen_pequeña": "https://i.imgur.com/j7GHxkF.png",
 		"imagen_grande": "https://i.imgur.com/lQts9gq.png"
 	},
 	{
 		"titulo": "The Settlers 2 - History Edition",
 		"id_steam": "",
-		"ids_ubi": ["11783"],
+		"ids_ubi": [ "11783" ],
 		"imagen_pequeña": "https://i.imgur.com/pP8yngS.png",
 		"imagen_grande": "https://i.imgur.com/Kcdy6St.png"
 	},
 	{
 		"titulo": "The Settlers 3 - History Edition",
 		"id_steam": "",
-		"ids_ubi": ["11784"],
+		"ids_ubi": [ "11784" ],
 		"imagen_pequeña": "https://i.imgur.com/xhMJJJR.jpg",
 		"imagen_grande": "https://i.imgur.com/nmnUyIA.png"
 	},
 	{
 		"titulo": "The Settlers 4 - History Edition",
 		"id_steam": "",
-		"ids_ubi": ["11785"],
+		"ids_ubi": [ "11785" ],
 		"imagen_pequeña": "https://i.imgur.com/EfApAgt.png",
 		"imagen_grande": "https://i.imgur.com/cmmsiQr.jpg"
 	},
 	{
 		"titulo": "The Settlers 5: Heritage of Kings - History Edition",
 		"id_steam": "965300",
-		"ids_ubi": ["11786"],
+		"ids_ubi": [ "11786" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "The Settlers 6: Rise of an Empire - History Edition",
 		"id_steam": "965310",
-		"ids_ubi": ["11787"],
+		"ids_ubi": [ "11787" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "The Settlers 7: Paths to a Kingdom - History Edition",
 		"id_steam": "965320",
-		"ids_ubi": ["11788"],
+		"ids_ubi": [ "11788" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Tom Clancy's EndWar",
 		"id_steam": "21800",
-		"ids_ubi": ["83"],
+		"ids_ubi": [ "83" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/vXRqkza.png"
 	},
 	{
 		"titulo": "Tom Clancy's Ghost Recon",
 		"id_steam": "15300",
-		"ids_ubi": ["2297"],
+		"ids_ubi": [ "2297" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/A2Amebm.png"
 	},
 	{
 		"titulo": "Tom Clancy's Ghost Recon Advanced Warfighter",
 		"id_steam": "13640",
-		"ids_ubi": ["94"],
+		"ids_ubi": [ "94" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/aLGeB8k.png"
 	},
 	{
 		"titulo": "Tom Clancy's Ghost Recon Advanced Warfighter 2",
 		"id_steam": "13510",
-		"ids_ubi": ["114"],
+		"ids_ubi": [ "114" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/NCTntVH.png"
 	},
 	{
 		"titulo": "Tom Clancy's Ghost Recon Breakpoint",
 		"id_steam": "2231380",
-		"ids_ubi": ["11903"],
+		"ids_ubi": [ "11903" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Tom Clancy's Ghost Recon Future Soldier",
 		"id_steam": "212630",
-		"ids_ubi": ["53"],
+		"ids_ubi": [ "53" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/Kday41s.png"
 	},
 	{
 		"titulo": "Tom Clancy's Ghost Recon Wildlands",
 		"id_steam": "460930",
-		"ids_ubi": ["1771"],
+		"ids_ubi": [ "1771" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Tom Clancy's H.A.W.X. 2",
 		"id_steam": "48180",
-		"ids_ubi": ["21"],
+		"ids_ubi": [ "21" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/61AWqGg.png"
 	},
 	{
 		"titulo": "Tom Clancy's Rainbow Six",
 		"id_steam": "",
-		"ids_ubi": ["2298"],
+		"ids_ubi": [ "2298" ],
 		"imagen_pequeña": "https://i.imgur.com/PY1B8u5.png",
 		"imagen_grande": "https://i.imgur.com/FAA7W0Q.png"
 	},
 	{
 		"titulo": "Tom Clancy's Rainbow Six 3",
 		"id_steam": "19830",
-		"ids_ubi": ["2235"],
+		"ids_ubi": [ "2235" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/s4xTw7A.png"
 	},
@@ -912,231 +940,231 @@
 	{
 		"titulo": "Tom Clancy's Rainbow Six: Lockdown",
 		"id_steam": "15000",
-		"ids_ubi": ["358"],
+		"ids_ubi": [ "358" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/i0DkWSe.png"
 	},
 	{
 		"titulo": "Tom Clancy's Rainbow Six: Vegas",
 		"id_steam": "13540",
-		"ids_ubi": ["88"],
+		"ids_ubi": [ "88" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/w6ytu6F.png"
 	},
 	{
 		"titulo": "Tom Clancy's Rainbow Six: Vegas 2",
 		"id_steam": "15120",
-		"ids_ubi": ["108"],
+		"ids_ubi": [ "108" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/2tjyjuE.png"
 	},
 	{
 		"titulo": "Tom Clancy's Rainbow Six Siege",
 		"id_steam": "359550",
-		"ids_ubi": ["635","1842"],
+		"ids_ubi": [ "635", "1842" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Tom Clancy's Splinter Cell",
 		"id_steam": "13560",
-		"ids_ubi": ["109"],
+		"ids_ubi": [ "109" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/v57YH38.png"
 	},
 	{
 		"titulo": "Tom Clancy's Splinter Cell: Blacklist",
 		"id_steam": "235600",
-		"ids_ubi": ["91"],
+		"ids_ubi": [ "91" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/No0tpuI.png"
 	},
 	{
 		"titulo": "Tom Clancy's Splinter Cell: Chaos Theory",
 		"id_steam": "13570",
-		"ids_ubi": ["95"],
+		"ids_ubi": [ "95" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/qOVUmHj.png"
 	},
 	{
 		"titulo": "Tom Clancy's Splinter Cell: Conviction",
 		"id_steam": "33220",
-		"ids_ubi": ["2"],
+		"ids_ubi": [ "2" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/B7LpCE1.png"
 	},
 	{
 		"titulo": "Tom Clancy's Splinter Cell: Double Agent",
 		"id_steam": "13580",
-		"ids_ubi": ["110"],
+		"ids_ubi": [ "110" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/clHRUoG.jpg"
 	},
 	{
 		"titulo": "Tom Clancy's The Division",
 		"id_steam": "365590",
-		"ids_ubi": ["568","1835"],
+		"ids_ubi": [ "568", "1835" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Tom Clancy's The Division 2",
 		"id_steam": "2221490",
-		"ids_ubi": ["4932"],
+		"ids_ubi": [ "4932" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Trackmania",
 		"id_steam": "2225070",
-		"ids_ubi": ["5595"],
+		"ids_ubi": [ "5595" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Trackmania Turbo",
 		"id_steam": "375900",
-		"ids_ubi": ["2070"],
+		"ids_ubi": [ "2070" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Trackmania United Forever",
 		"id_steam": "7200",
-		"ids_ubi": ["700"],
+		"ids_ubi": [ "700" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "TrackMania² Canyon",
 		"id_steam": "228760",
-		"ids_ubi": ["127"],
+		"ids_ubi": [ "127" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "TrackMania² Stadium",
 		"id_steam": "232910",
-		"ids_ubi": ["275"],
+		"ids_ubi": [ "275" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "TrackMania² Valley",
 		"id_steam": "243360",
-		"ids_ubi": ["429"],
+		"ids_ubi": [ "429" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Transference",
 		"id_steam": "647570",
-		"ids_ubi": ["10871"],
+		"ids_ubi": [ "10871" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/GhnPjul.png"
 	},
 	{
 		"titulo": "Trials Evolution Gold Edition",
 		"id_steam": "220160",
-		"ids_ubi": ["78"],
+		"ids_ubi": [ "78" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/8E7KAEp.png"
 	},
 	{
 		"titulo": "Trials Fusion",
 		"id_steam": "245490",
-		"ids_ubi": ["297"],
+		"ids_ubi": [ "297" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/2LxiFcj.png"
 	},
 	{
 		"titulo": "Trials of the Blood Dragon",
 		"id_steam": "435480",
-		"ids_ubi": ["2741"],
+		"ids_ubi": [ "2741" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/V9lBfcD.png"
 	},
 	{
 		"titulo": "Trials Rising",
 		"id_steam": "641080",
-		"ids_ubi": ["3601"],
+		"ids_ubi": [ "3601" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "UNO",
 		"id_steam": "470220",
-		"ids_ubi": ["3352"],
+		"ids_ubi": [ "3352" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Valiant Hearts: The Great War",
 		"id_steam": "260230",
-		"ids_ubi": ["659"],
+		"ids_ubi": [ "659" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/xQWgNLk.png"
 	},
 	{
 		"titulo": "Voodoo Dice",
 		"id_steam": "48150",
-		"ids_ubi": ["701"],
+		"ids_ubi": [ "701" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/EEQZIT3.png"
 	},
 	{
 		"titulo": "Warlords Battlecry",
 		"id_steam": "",
-		"ids_ubi": ["3053"],
+		"ids_ubi": [ "3053" ],
 		"imagen_pequeña": "https://i.imgur.com/VfoBBll.png",
 		"imagen_grande": "https://i.imgur.com/E5N4gmY.png"
 	},
 	{
 		"titulo": "Warlords Battlecry 2",
 		"id_steam": "",
-		"ids_ubi": ["3054"],
+		"ids_ubi": [ "3054" ],
 		"imagen_pequeña": "https://i.imgur.com/Uc3ZfWA.png",
 		"imagen_grande": "https://i.imgur.com/n8gYbSE.png"
 	},
 	{
 		"titulo": "Watch_Dogs",
 		"id_steam": "243470",
-		"ids_ubi": ["274","543"],
+		"ids_ubi": [ "274", "543" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/GFX1Sbt.png"
 	},
 	{
 		"titulo": "Watch_Dogs 2",
 		"id_steam": "447040",
-		"ids_ubi": ["2688"],
+		"ids_ubi": [ "2688" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "Watch Dogs: Legion",
 		"id_steam": "2239550",
-		"ids_ubi": ["3353"],
+		"ids_ubi": [ "3353" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
 	{
 		"titulo": "World in Conflict",
 		"id_steam": "21760",
-		"ids_ubi": ["90"],
+		"ids_ubi": [ "90" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/xK806L8.png"
 	},
 	{
 		"titulo": "Zeit²",
 		"id_steam": "33390",
-		"ids_ubi": ["340"],
+		"ids_ubi": [ "340" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/lDgkcaT.png"
 	},
 	{
 		"titulo": "Zombi",
 		"id_steam": "339230",
-		"ids_ubi": ["1653"],
+		"ids_ubi": [ "1653" ],
 		"imagen_pequeña": "",
 		"imagen_grande": "https://i.imgur.com/kfj47uV.png"
 	}
