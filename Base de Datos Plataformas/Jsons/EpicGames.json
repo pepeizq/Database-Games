@@ -224,6 +224,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Alex Kidd in Miracle World DX",
+		"id_steam": "1333470",
+		"ids_epic": [ "90a9dbcace12452ebd9cab6d8d750490" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Alien: Isolation",
 		"id_steam": "214490",
 		"ids_epic": [ "8935bb3e1420443a9789fe01758039a5" ],
@@ -360,6 +367,13 @@
 		"titulo": "Aquanox Deep Descent",
 		"id_steam": "254370",
 		"ids_epic": [ "c653d74ead8c4940bc121bcccbaf20cf" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Arcade Paradise",
+		"id_steam": "1388870",
+		"ids_epic": [ "888fabb7d07b430691ae22796f2cb530" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -714,6 +728,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Bramble: The Mountain King",
+		"id_steam": "1623940",
+		"ids_epic": [ "206d048847f1491282cec0593065a2c2" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Breakout: Recharged",
 		"id_steam": "1714190",
 		"ids_epic": [ "daec2330d8114107ac5e953dca5eb8e8" ],
@@ -784,6 +805,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Card Shark",
+		"id_steam": "1371720",
+		"ids_epic": [ "9d4ccd48ba554809b402bf85c5806e0a" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Cardpocalypse",
 		"id_steam": "904400",
 		"ids_epic": [ "Duck" ],
@@ -829,6 +857,13 @@
 		"titulo": "Cat Quest",
 		"id_steam": "593280",
 		"ids_epic": [ "051eaac0842c46d7a5a62858ad534d5a" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Cat Quest II",
+		"id_steam": "914710",
+		"ids_epic": [ "6a2cc8b03e684bbd9096a338f96a7ba2" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -885,6 +920,13 @@
 		"titulo": "Chronos: Before the Ashes",
 		"id_steam": "967390",
 		"ids_epic": [ "8ab5702674e3478583c2c2b50f5b5eff" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Circus Electrique",
+		"id_steam": "1666250",
+		"ids_epic": [ "f9d7a68aa77a4b30902af341533abe22" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1071,6 +1113,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "CYGNI: All Guns Blazing",
+		"id_steam": "1248080",
+		"ids_epic": [ "25ad72f164b948ab9e05eb18fab2cda8" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "DAEMON X MACHINA",
 		"id_steam": "1167450",
 		"ids_epic": [ "f4f0d39fbb4640e0be62aa91d9eca87d" ],
@@ -1193,6 +1242,13 @@
 		"titulo": "DEATHLOOP",
 		"id_steam": "1252330",
 		"ids_epic": [ "3206dba3f9b14fd3b01c18f9dcbc864a" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Deceive Inc.",
+		"id_steam": "820520",
+		"ids_epic": [ "cccdbadd66124f609ba706a9c4c73756" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1417,6 +1473,13 @@
 		"titulo": "EARTHLOCK",
 		"id_steam": "761030",
 		"ids_epic": [ "4a4ffcf1a8354008bcc3b28280dd2419" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Electrician Simulator",
+		"id_steam": "1080020",
+		"ids_epic": [ "019b8e62a48c4278ac5ca98d7986cd75" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1659,6 +1722,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Farming Simulator 22",
+		"id_steam": "1248130",
+		"ids_epic": [ "f452ea20ae1b43698209998b56c2cc1c" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Fell Seal: Arbiter's Mark",
 		"id_steam": "699170",
 		"ids_epic": [ "b9787680fb524556be2d4bd05b25257e" ],
@@ -1697,6 +1767,13 @@
 		"titulo": "First Class Trouble",
 		"id_steam": "953880",
 		"ids_epic": [ "0c942b2c920149ff986af1ed93c92ddf" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Floppy Knights",
+		"id_steam": "1057800",
+		"ids_epic": [ "ef041e69837d410ea851934ef879ba7b" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -1774,6 +1851,13 @@
 		"titulo": "Freedom Fighters",
 		"id_steam": "1347780",
 		"ids_epic": [ "0d771750aa9042898ce100dbfb5efb1a" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Freshly Frosted",
+		"id_steam": "1070790",
+		"ids_epic": [ "c95f2c3e2e8b41f1bb9de3036e53f319" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -2233,6 +2317,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Industria",
+		"id_steam": "1172650",
+		"ids_epic": [ "78903903b1f1419bae248467f27ff470" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Industries of Titan",
 		"id_steam": "427940",
 		"ids_epic": [ "Protea" ],
@@ -2430,24 +2521,24 @@
 	},
 	{
 		"titulo": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
-		"id_steam": "",
+		"id_steam": "2552430",
 		"ids_epic": [ "68c214c58f694ae88c2dab6f209b43e4" ],
-		"imagen_pequeña": "https://i.imgur.com/rckbeHt.jpg",
-		"imagen_grande": "https://i.imgur.com/W1M9Bx8.jpg"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
-		"titulo": "KINGDOM HEARTS HD II.8 Final Chapter Prologue",
-		"id_steam": "",
+		"titulo": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+		"id_steam": "2552440",
 		"ids_epic": [ "d1a8f7c478d4439b8c60a5808715dc05" ],
-		"imagen_pequeña": "https://i.imgur.com/ZnlAUbj.png",
-		"imagen_grande": "https://i.imgur.com/1xJYAcD.jpg"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "KINGDOM HEARTS III + Re Mind",
-		"id_steam": "",
+		"id_steam": "2552450",
 		"ids_epic": [ "fd711544a06543e0ab1b0808de334120" ],
-		"imagen_pequeña": "https://i.imgur.com/0Oo77qn.png",
-		"imagen_grande": "https://i.imgur.com/CWUcsa4.png"
+		"imagen_pequeña": "",
+		"imagen_grande": ""
 	},
 	{
 		"titulo": "KINGDOM HEARTS Melody of Memory",
@@ -2590,6 +2681,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "LISA: The Painful",
+		"id_steam": "335670",
+		"ids_epic": [ "ee6a6b5ad66e4d94abe462ba331ddc4b" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Little Inferno",
 		"id_steam": "221260",
 		"ids_epic": [ "Clover" ],
@@ -2621,6 +2719,13 @@
 		"titulo": "LOVE",
 		"id_steam": "269270",
 		"ids_epic": [ "f99d3d6da3454662913621222037417d" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "LumbearJack",
+		"id_steam": "1582290",
+		"ids_epic": [ "5ff96008f7314df4bb188cd085b1cdf4" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -2674,6 +2779,13 @@
 		"imagen_grande": "https://i.imgur.com/7XzlIR9.png"
 	},
 	{
+		"titulo": "Maid of Sker",
+		"id_steam": "826940",
+		"ids_epic": [ "e25566912b57452b929cf8c333a16ca8" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Maneater",
 		"id_steam": "629820",
 		"ids_epic": [ "Turtle" ],
@@ -2691,6 +2803,13 @@
 		"titulo": "Marvel's Guardians of the Galaxy",
 		"id_steam": "1088850",
 		"ids_epic": [ "63a665088eb1480298f1e57943b225d8" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Marvel's Midnight Suns",
+		"id_steam": "368260",
+		"ids_epic": [ "49550aa9fcd74552ae07c4e9f2c262fe" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -2926,6 +3045,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Mythforce",
+		"id_steam": "363860",
+		"ids_epic": [ "331b6a9944d9475dadac1469dc4390de" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "NBA 2K21",
 		"id_steam": "1225330",
 		"ids_epic": [ "639977eecfd2497c941b71af949b5067" ],
@@ -3090,6 +3216,13 @@
 		"titulo": "Operencia: The Stolen Sun",
 		"id_steam": "985950",
 		"ids_epic": [ "Lily" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Orcs Must Die! 3",
+		"id_steam": "1522820",
+		"ids_epic": [ "3047a2d268da49588bbd22c806cde4de" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -3454,6 +3587,13 @@
 		"titulo": "Red Dead Redemption 2",
 		"id_steam": "1174180",
 		"ids_epic": [ "Heather" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Redout 2",
+		"id_steam": "1799930",
+		"ids_epic": [ "16a37a0080e3414aafb30f1cc8390f6c" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4172,6 +4312,13 @@
 		"imagen_grande": ""
 	},
 	{
+		"titulo": "Suicide Squad: Kill the Justice League",
+		"id_steam": "315210",
+		"ids_epic": [ "e3306721e7c64f1cbf71235bcb260d53" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Sundered: Eldritch Edition",
 		"id_steam": "535480",
 		"ids_epic": [ "Moa" ],
@@ -4182,6 +4329,13 @@
 		"titulo": "Sunless Sea",
 		"id_steam": "304650",
 		"ids_epic": [ "2420b50453144c07b3b847fff941275d" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Sunless Skies: Sovereign Edition",
+		"id_steam": "596970",
+		"ids_epic": [ "b979fad811c64939af282f5892049b50" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4305,6 +4459,13 @@
 		"imagen_grande": "https://i.imgur.com/fH2I9nt.png"
 	},
 	{
+		"titulo": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+		"id_steam": "1361510",
+		"ids_epic": [ "16a7b366b94c4cf2843dd0dfda4bbd19" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Terraforming Mars",
 		"id_steam": "800270",
 		"ids_epic": [ "582c8940f499450d9033840efe5937a6" ],
@@ -4329,6 +4490,13 @@
 		"titulo": "The Alto Collection",
 		"id_steam": "2837600",
 		"ids_epic": [ "Hornbill" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "The Big Con",
+		"id_steam": "1139280",
+		"ids_epic": [ "573b2b742fa04eda83ea73cb17d7abc0" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4434,6 +4602,13 @@
 		"titulo": "The Fabled Woods",
 		"id_steam": "1299480",
 		"ids_epic": [ "9d3719023dcb41d0a888ff89fca89648" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "The Falconeer",
+		"id_steam": "1135260",
+		"ids_epic": [ "32dbb6444ce14e9198129b746c0d056f" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -4977,6 +5152,13 @@
 		"imagen_grande": "https://i.imgur.com/QnCc21D.jpg"
 	},
 	{
+		"titulo": "Town of Salem 2",
+		"id_steam": "2140510",
+		"ids_epic": [ "fec1a1199e624a79b6293cef4e1d3505" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
 		"titulo": "Trackmania",
 		"id_steam": "2225070",
 		"ids_epic": [ "Pigeon" ],
@@ -5008,6 +5190,13 @@
 		"titulo": "Transistor",
 		"id_steam": "237930",
 		"ids_epic": [ "Dill" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Trek to Yomi",
+		"id_steam": "1370050",
+		"ids_epic": [ "4dfe86c3ca4541edb53d47f6e2e47d30" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
@@ -5211,6 +5400,13 @@
 		"titulo": "Wattam",
 		"id_steam": "702680",
 		"ids_epic": [ "Lupine" ],
+		"imagen_pequeña": "",
+		"imagen_grande": ""
+	},
+	{
+		"titulo": "Weird West: Definitive Edition",
+		"id_steam": "1097350",
+		"ids_epic": [ "5ab7c9b39f81481c88dce1e4f106a594" ],
 		"imagen_pequeña": "",
 		"imagen_grande": ""
 	},
